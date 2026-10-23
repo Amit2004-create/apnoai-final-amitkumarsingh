@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Region,City,Category,Product,Customer_Segment,Quantity,Sales,Discount,Profit,Profit_Margin,Payment_Method
+AM-10001,2026-04-01,North,Delhi,Home & Kitchen,Mixer Grinder,Consumer,2,11520,0.2,2612,0.2267,Net Banking
+AM-10002,2026-04-01,West,Ahmedabad,Home & Kitchen,Air Fryer,Corporate,4,7448,0.05,2285,0.3068,UPI
+AM-10003,2026-04-01,South,Bengaluru,Office Supplies,Notebook Pack,Home Office,1,4290,0.0,2247,0.5238,Net Banking
+AM-10004,2026-04-01,South,Chennai,Beauty,Makeup Palette,Consumer,3,10773,0.1,4915,0.4562,UPI
+AM-10005,2026-04-01,Central,Raipur,Home & Kitchen,Bedsheet Set,Consumer,3,4161,0.05,1462,0.3514,Credit Card
+AM-10006,2026-04-02,Central,Nagpur,Electronics,Smartwatch,Corporate,8,68884,0.15,5593,0.0812,Net Banking
+AM-10007,2026-04-02,Central,Raipur,Home & Kitchen,Mixer Grinder,Corporate,6,14025,0.15,3328,0.2373,Credit Card
+AM-10008,2026-04-02,West,Surat,Home & Kitchen,Air Fryer,Home Office,2,4959,0.05,1707,0.3442,UPI
+AM-10009,2026-04-02,North,Lucknow,Home & Kitchen,Bedsheet Set,Home Office,3,17901,0.15,4053,0.2264,Debit Card
+AM-10010,2026-04-02,South,Bengaluru,Fashion,Handbag,Corporate,1,3366,0.1,1109,0.3295,Wallet
+AM-10011,2026-04-02,South,Chennai,Beauty,Hair Dryer,Consumer,1,2558,0.15,993,0.3882,UPI
+AM-10012,2026-04-02,East,Guwahati,Fashion,Handbag,Consumer,4,4140,0.1,1420,0.343,Credit Card
+AM-10013,2026-04-02,East,Guwahati,Fashion,Kurta Set,Consumer,1,4182,0.15,1158,0.2769,Debit Card
+AM-10014,2026-04-03,South,Hyderabad,Home & Kitchen,Cookware Set,Consumer,2,10260,0.05,3593,0.3502,UPI
+AM-10015,2026-04-03,South,Bengaluru,Beauty,Hair Dryer,Consumer,1,1773,0.1,733,0.4134,UPI
+AM-10016,2026-04-03,West,Surat,Office Supplies,Desk Lamp,Corporate,1,4320,0.1,1957,0.453,Credit Card
+AM-10017,2026-04-03,West,Ahmedabad,Electronics,Tablet,Consumer,2,25088,0.2,483,0.0193,UPI
+AM-10018,2026-04-03,North,Delhi,Electronics,Bluetooth Speaker,Consumer,1,7140,0.3,-378,-0.0529,Debit Card
+AM-10019,2026-04-04,North,Chandigarh,Office Supplies,Desk Lamp,Corporate,6,17085,0.15,7624,0.4462,Credit Card
+AM-10020,2026-04-04,West,Ahmedabad,Home & Kitchen,Bedsheet Set,Corporate,4,9996,0.15,2666,0.2667,Net Banking
+AM-10021,2026-04-04,North,Lucknow,Electronics,Bluetooth Speaker,Consumer,1,8544,0.2,-623,-0.0729,Debit Card
+AM-10022,2026-04-04,North,Jaipur,Home & Kitchen,Air Fryer,Consumer,2,2430,0.1,688,0.2831,UPI
+AM-10023,2026-04-05,South,Hyderabad,Fashion,Sneakers,Consumer,2,6120,0.1,1842,0.301,UPI
+AM-10024,2026-04-05,West,Pune,Fashion,Jeans,Consumer,1,855,0.1,240,0.2807,Credit Card
+AM-10025,2026-04-05,East,Guwahati,Electronics,Bluetooth Speaker,Corporate,5,56398,0.15,6167,0.1093,Debit Card
+AM-10026,2026-04-05,West,Surat,Home & Kitchen,Vacuum Cleaner,Home Office,1,3744,0.1,852,0.2276,UPI
+AM-10027,2026-04-05,South,Chennai,Electronics,Tablet,Home Office,2,4964,0.15,146,0.0294,UPI
+AM-10028,2026-04-05,North,Jaipur,Electronics,Headphones,Home Office,1,2296,0.2,-23,-0.01,Debit Card
+AM-10029,2026-04-05,North,Lucknow,Electronics,Bluetooth Speaker,Consumer,3,17955,0.25,-1826,-0.1017,Net Banking
+AM-10030,2026-04-05,East,Bhubaneswar,Fashion,Sneakers,Consumer,1,3485,0.15,890,0.2554,Net Banking
+AM-10031,2026-04-05,Central,Nagpur,Home & Kitchen,Vacuum Cleaner,Corporate,5,5625,0.1,1705,0.3031,UPI
+AM-10032,2026-04-05,North,Chandigarh,Office Supplies,Desk Lamp,Consumer,1,2637,0.1,1182,0.4482,Credit Card
+AM-10033,2026-04-05,West,Pune,Office Supplies,Organizer Set,Corporate,4,6688,0.05,3424,0.512,COD
+AM-10034,2026-04-06,West,Ahmedabad,Office Supplies,Printer Ink,Consumer,1,1143,0.1,531,0.4646,Credit Card
+AM-10035,2026-04-06,North,Chandigarh,Electronics,Bluetooth Speaker,Consumer,4,43710,0.25,-1115,-0.0255,Credit Card
+AM-10036,2026-04-06,East,Guwahati,Fashion,Jacket,Consumer,4,9504,0.2,2615,0.2751,UPI
+AM-10037,2026-04-06,South,Kochi,Electronics,Tablet,Consumer,1,9333,0.15,904,0.0969,UPI
+AM-10038,2026-04-06,North,Lucknow,Electronics,Bluetooth Speaker,Corporate,4,26820,0.25,-1331,-0.0496,COD
+AM-10039,2026-04-06,South,Hyderabad,Home & Kitchen,Air Fryer,Consumer,3,5406,0.15,958,0.1772,Credit Card
+AM-10040,2026-04-07,West,Ahmedabad,Electronics,Bluetooth Speaker,Corporate,3,8664,0.2,-64,-0.0074,Credit Card
+AM-10041,2026-04-07,Central,Nagpur,Home & Kitchen,Air Fryer,Consumer,4,16388,0.15,4544,0.2773,UPI
+AM-10042,2026-04-07,South,Hyderabad,Office Supplies,Ergonomic Chair,Corporate,3,5778,0.1,2906,0.5029,Credit Card
+AM-10043,2026-04-07,North,Jaipur,Fashion,Jeans,Consumer,1,1688,0.25,264,0.1564,UPI
+AM-10044,2026-04-07,Central,Indore,Home & Kitchen,Bedsheet Set,Consumer,5,33345,0.05,8863,0.2658,UPI
+AM-10045,2026-04-07,South,Hyderabad,Electronics,Bluetooth Speaker,Consumer,2,20332,0.15,1228,0.0604,UPI
+AM-10046,2026-04-07,South,Kochi,Electronics,Smartwatch,Consumer,1,9231,0.15,1226,0.1328,Credit Card
+AM-10047,2026-04-07,East,Guwahati,Beauty,Perfume,Consumer,1,1584,0.1,695,0.4388,Credit Card
+AM-10048,2026-04-07,Central,Raipur,Home & Kitchen,Air Fryer,Home Office,2,4811,0.15,788,0.1638,UPI
+AM-10049,2026-04-07,North,Jaipur,Electronics,Bluetooth Speaker,Consumer,3,6312,0.2,-372,-0.0589,Credit Card
+AM-10050,2026-04-07,South,Hyderabad,Electronics,Headphones,Consumer,1,6072,0.2,-221,-0.0364,UPI
+AM-10051,2026-04-07,East,Guwahati,Office Supplies,Organizer Set,Consumer,1,2630,0.0,1320,0.5019,Net Banking
+AM-10052,2026-04-08,West,Pune,Home & Kitchen,Bedsheet Set,Corporate,3,6426,0.1,1420,0.221,Wallet
+AM-10053,2026-04-08,South,Hyderabad,Fashion,Jeans,Consumer,1,3357,0.1,1109,0.3304,Credit Card
+AM-10054,2026-04-08,West,Ahmedabad,Home & Kitchen,Cookware Set,Consumer,1,5760,0.1,1558,0.2705,Debit Card
+AM-10055,2026-04-08,North,Jaipur,Home & Kitchen,Mixer Grinder,Corporate,3,16536,0.2,3912,0.2366,UPI
+AM-10056,2026-04-08,Central,Nagpur,Home & Kitchen,Bedsheet Set,Consumer,2,15808,0.05,5050,0.3195,UPI
+AM-10057,2026-04-08,South,Hyderabad,Electronics,Tablet,Corporate,5,58692,0.15,5179,0.0882,Wallet
+AM-10058,2026-04-08,North,Delhi,Electronics,Power Bank,Consumer,4,16520,0.3,-3571,-0.2162,UPI
+AM-10059,2026-04-08,South,Chennai,Beauty,Hair Dryer,Consumer,2,2124,0.1,849,0.3997,COD
+AM-10060,2026-04-08,West,Pune,Fashion,Jacket,Consumer,1,900,0.1,280,0.3111,Wallet
+AM-10061,2026-04-09,East,Kolkata,Fashion,Sneakers,Consumer,4,4658,0.15,1055,0.2265,Credit Card
+AM-10062,2026-04-09,North,Jaipur,Fashion,Jacket,Consumer,4,12736,0.2,2523,0.1981,Debit Card
+AM-10063,2026-04-09,South,Bengaluru,Home & Kitchen,Bedsheet Set,Consumer,2,11520,0.1,2900,0.2517,Credit Card
+AM-10064,2026-04-09,North,Lucknow,Electronics,Power Bank,Home Office,1,12398,0.25,-1742,-0.1405,UPI
+AM-10065,2026-04-09,East,Guwahati,Beauty,Trimmer,Consumer,2,5339,0.05,2326,0.4357,Credit Card
+AM-10066,2026-04-09,North,Jaipur,Beauty,Hair Dryer,Corporate,3,8950,0.15,3701,0.4135,Debit Card
+AM-10067,2026-04-09,West,Surat,Office Supplies,Ergonomic Chair,Consumer,4,1900,0.05,922,0.4853,UPI
+AM-10068,2026-04-09,North,Chandigarh,Fashion,Handbag,Consumer,1,2632,0.25,415,0.1577,UPI
+AM-10069,2026-04-09,Central,Nagpur,Electronics,Bluetooth Speaker,Consumer,2,13860,0.25,-590,-0.0426,Credit Card
+AM-10070,2026-04-09,South,Hyderabad,Home & Kitchen,Vacuum Cleaner,Corporate,4,9316,0.15,1535,0.1648,Net Banking
+AM-10071,2026-04-09,East,Kolkata,Home & Kitchen,Vacuum Cleaner,Consumer,1,5160,0.15,956,0.1853,Credit Card
+AM-10072,2026-04-09,South,Chennai,Home & Kitchen,Mixer Grinder,Corporate,4,25364,0.15,6484,0.2556,UPI
+AM-10073,2026-04-09,West,Ahmedabad,Home & Kitchen,Cookware Set,Home Office,2,6822,0.1,1469,0.2153,Credit Card
+AM-10074,2026-04-09,Central,Bhopal,Home & Kitchen,Vacuum Cleaner,Home Office,1,2358,0.1,543,0.2303,Credit Card
+AM-10075,2026-04-09,Central,Indore,Beauty,Trimmer,Consumer,1,2278,0.15,945,0.4148,UPI
+AM-10076,2026-04-10,South,Hyderabad,Fashion,Jacket,Consumer,1,2006,0.15,498,0.2483,Debit Card
+AM-10077,2026-04-10,South,Hyderabad,Beauty,Hair Dryer,Consumer,1,2781,0.1,1064,0.3826,COD
+AM-10078,2026-04-10,West,Surat,Fashion,Sneakers,Consumer,1,3408,0.15,924,0.2711,UPI
+AM-10079,2026-04-10,North,Chandigarh,Fashion,Kurta Set,Home Office,1,2520,0.25,272,0.1079,Debit Card
+AM-10080,2026-04-10,West,Mumbai,Beauty,Hair Dryer,Home Office,2,6804,0.1,3053,0.4487,UPI
+AM-10081,2026-04-10,South,Chennai,Beauty,Makeup Palette,Consumer,1,850,0.15,346,0.4071,Wallet
+AM-10082,2026-04-10,South,Bengaluru,Fashion,Jeans,Corporate,2,3791,0.15,861,0.2271,Credit Card
+AM-10083,2026-04-10,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,Corporate,3,12036,0.15,2232,0.1854,Wallet
+AM-10084,2026-04-10,West,Pune,Electronics,Bluetooth Speaker,Consumer,1,13792,0.2,1012,0.0734,COD
+AM-10085,2026-04-11,West,Mumbai,Beauty,Hair Dryer,Consumer,2,1962,0.1,817,0.4164,UPI
+AM-10086,2026-04-11,South,Chennai,Electronics,Bluetooth Speaker,Corporate,6,57732,0.15,4910,0.085,UPI
+AM-10087,2026-04-11,North,Jaipur,Beauty,Skincare Kit,Consumer,4,4658,0.15,1819,0.3905,Credit Card
+AM-10088,2026-04-11,Central,Nagpur,Office Supplies,Desk Lamp,Consumer,3,2280,0.05,1166,0.5114,UPI
+AM-10089,2026-04-11,West,Ahmedabad,Beauty,Perfume,Consumer,1,741,0.05,340,0.4588,UPI
+AM-10090,2026-04-11,East,Guwahati,Electronics,Smartwatch,Home Office,1,13360,0.2,-941,-0.0704,Wallet
+AM-10091,2026-04-11,South,Bengaluru,Electronics,Power Bank,Consumer,1,4192,0.2,29,0.0069,UPI
+AM-10092,2026-04-11,West,Ahmedabad,Office Supplies,Notebook Pack,Consumer,5,26742,0.05,13037,0.4875,UPI
+AM-10093,2026-04-11,West,Ahmedabad,Electronics,Tablet,Consumer,1,9736,0.2,119,0.0122,UPI
+AM-10094,2026-04-12,West,Surat,Office Supplies,Notebook Pack,Consumer,1,2709,0.1,1149,0.4241,Credit Card
+AM-10095,2026-04-12,South,Hyderabad,Office Supplies,Organizer Set,Corporate,5,8502,0.05,4059,0.4774,Debit Card
+AM-10096,2026-04-12,North,Jaipur,Electronics,Tablet,Consumer,1,10080,0.3,-1148,-0.1139,COD
+AM-10097,2026-04-12,North,Chandigarh,Fashion,Kurta Set,Home Office,2,5066,0.15,1115,0.2201,UPI
+AM-10098,2026-04-12,Central,Raipur,Home & Kitchen,Vacuum Cleaner,Corporate,2,4014,0.1,926,0.2307,Credit Card
+AM-10099,2026-04-12,West,Ahmedabad,Electronics,Power Bank,Home Office,1,12470,0.15,-116,-0.0093,COD
+AM-10100,2026-04-12,South,Chennai,Office Supplies,Printer Ink,Consumer,2,10792,0.05,5375,0.4981,UPI
+AM-10101,2026-04-12,West,Mumbai,Office Supplies,Notebook Pack,Home Office,2,8496,0.1,3951,0.465,Debit Card
+AM-10102,2026-04-12,North,Lucknow,Home & Kitchen,Mixer Grinder,Consumer,1,5210,0.15,1036,0.1988,UPI
+AM-10103,2026-04-12,Central,Indore,Electronics,Smartwatch,Consumer,3,14496,0.2,1109,0.0765,Credit Card
+AM-10104,2026-04-12,Central,Nagpur,Beauty,Perfume,Consumer,3,9832,0.05,4591,0.4669,COD
+AM-10105,2026-04-13,West,Ahmedabad,Fashion,Jacket,Home Office,3,7587,0.1,2556,0.3369,Credit Card
+AM-10106,2026-04-13,South,Kochi,Office Supplies,Notebook Pack,Consumer,2,11220,0.0,5581,0.4974,UPI
+AM-10107,2026-04-13,North,Jaipur,Home & Kitchen,Mixer Grinder,Consumer,1,6332,0.15,1111,0.1755,UPI
+AM-10108,2026-04-13,Central,Nagpur,Electronics,Power Bank,Consumer,4,35292,0.15,3314,0.0939,Debit Card
+AM-10109,2026-04-13,North,Delhi,Home & Kitchen,Mixer Grinder,Consumer,1,2632,0.2,330,0.1254,Credit Card
+AM-10110,2026-04-13,South,Bengaluru,Office Supplies,Notebook Pack,Corporate,5,29100,0.0,14389,0.4945,Net Banking
+AM-10111,2026-04-13,South,Bengaluru,Electronics,Tablet,Consumer,4,18080,0.2,-28,-0.0015,UPI
+AM-10112,2026-04-13,East,Bhubaneswar,Beauty,Trimmer,Home Office,1,1957,0.05,879,0.4492,Net Banking
+AM-10113,2026-04-13,North,Jaipur,Fashion,Jacket,Consumer,3,2835,0.25,428,0.151,Credit Card
+AM-10114,2026-04-13,Central,Indore,Fashion,Handbag,Consumer,1,1930,0.15,453,0.2347,UPI
+AM-10115,2026-04-13,North,Lucknow,Office Supplies,Notebook Pack,Home Office,1,416,0.15,186,0.4471,UPI
+AM-10116,2026-04-13,North,Chandigarh,Electronics,Headphones,Consumer,1,12672,0.2,-858,-0.0677,UPI
+AM-10117,2026-04-13,South,Kochi,Fashion,Jacket,Corporate,5,13680,0.2,3205,0.2343,Debit Card
+AM-10118,2026-04-13,Central,Nagpur,Electronics,Tablet,Consumer,1,3464,0.2,176,0.0508,UPI
+AM-10119,2026-04-14,South,Chennai,Electronics,Bluetooth Speaker,Home Office,1,6536,0.15,10,0.0015,Credit Card
+AM-10120,2026-04-14,North,Chandigarh,Fashion,Jacket,Home Office,2,7837,0.15,2398,0.306,COD
+AM-10121,2026-04-14,East,Bhubaneswar,Electronics,Power Bank,Home Office,4,40160,0.2,-2155,-0.0537,Wallet
+AM-10122,2026-04-14,South,Kochi,Home & Kitchen,Air Fryer,Consumer,2,9724,0.15,2115,0.2175,Net Banking
+AM-10123,2026-04-14,North,Lucknow,Fashion,Kurta Set,Consumer,3,11352,0.2,2795,0.2462,UPI
+AM-10124,2026-04-14,South,Hyderabad,Fashion,Sneakers,Home Office,1,2619,0.1,839,0.3204,COD
+AM-10125,2026-04-14,South,Kochi,Fashion,Handbag,Corporate,5,8010,0.1,2824,0.3526,Wallet
+AM-10126,2026-04-15,East,Kolkata,Office Supplies,Organizer Set,Corporate,4,17404,0.05,8976,0.5157,Debit Card
+AM-10127,2026-04-15,North,Jaipur,Electronics,Power Bank,Home Office,3,30892,0.25,343,0.0111,Wallet
+AM-10128,2026-04-15,Central,Indore,Fashion,Jeans,Consumer,2,3043,0.15,925,0.304,UPI
+AM-10129,2026-04-15,South,Hyderabad,Electronics,Power Bank,Home Office,1,3300,0.25,-443,-0.1342,UPI
+AM-10130,2026-04-15,West,Pune,Electronics,Headphones,Home Office,4,27780,0.25,-2493,-0.0897,UPI
+AM-10131,2026-04-15,West,Pune,Fashion,Handbag,Consumer,1,1926,0.1,662,0.3437,COD
+AM-10132,2026-04-15,North,Delhi,Electronics,Headphones,Consumer,2,9884,0.3,-1775,-0.1796,UPI
+AM-10133,2026-04-15,North,Chandigarh,Fashion,Kurta Set,Corporate,5,11080,0.2,2608,0.2354,UPI
+AM-10134,2026-04-15,North,Jaipur,Home & Kitchen,Mixer Grinder,Consumer,1,4707,0.1,1501,0.3189,Credit Card
+AM-10135,2026-04-15,East,Bhubaneswar,Electronics,Power Bank,Consumer,2,13600,0.15,487,0.0358,Wallet
+AM-10136,2026-04-15,South,Hyderabad,Electronics,Tablet,Home Office,1,4250,0.15,279,0.0656,Credit Card
+AM-10137,2026-04-16,Central,Bhopal,Fashion,Handbag,Consumer,4,8244,0.1,2745,0.333,UPI
+AM-10138,2026-04-16,West,Pune,Office Supplies,Organizer Set,Corporate,4,1938,0.05,903,0.4659,UPI
+AM-10139,2026-04-16,South,Bengaluru,Fashion,Kurta Set,Consumer,4,8942,0.15,2545,0.2846,UPI
+AM-10140,2026-04-16,West,Ahmedabad,Fashion,Jacket,Consumer,1,1314,0.1,352,0.2679,Net Banking
+AM-10141,2026-04-16,North,Lucknow,Fashion,Jeans,Consumer,2,5200,0.2,928,0.1785,Credit Card
+AM-10142,2026-04-16,Central,Nagpur,Home & Kitchen,Vacuum Cleaner,Home Office,1,5364,0.15,1139,0.2123,UPI
+AM-10143,2026-04-16,North,Lucknow,Home & Kitchen,Bedsheet Set,Home Office,3,8181,0.1,2291,0.28,Credit Card
+AM-10144,2026-04-16,North,Jaipur,Office Supplies,Desk Lamp,Home Office,4,6016,0.2,2573,0.4277,Net Banking
+AM-10145,2026-04-17,East,Kolkata,Beauty,Hair Dryer,Corporate,4,3910,0.15,1441,0.3685,Net Banking
+AM-10146,2026-04-17,West,Pune,Fashion,Kurta Set,Home Office,1,2106,0.1,685,0.3253,COD
+AM-10147,2026-04-17,West,Surat,Electronics,Power Bank,Consumer,1,6136,0.2,-192,-0.0313,Credit Card
+AM-10148,2026-04-17,North,Jaipur,Office Supplies,Ergonomic Chair,Consumer,4,7740,0.1,3437,0.4441,UPI
+AM-10149,2026-04-17,West,Mumbai,Beauty,Perfume,Consumer,1,1269,0.1,480,0.3783,UPI
+AM-10150,2026-04-17,South,Bengaluru,Electronics,Smartwatch,Consumer,4,54400,0.15,3453,0.0635,COD
+AM-10151,2026-04-17,South,Chennai,Fashion,Sneakers,Consumer,1,3230,0.15,712,0.2204,Debit Card
+AM-10152,2026-04-17,Central,Raipur,Office Supplies,Desk Lamp,Corporate,6,24192,0.1,11032,0.456,UPI
+AM-10153,2026-04-17,South,Bengaluru,Home & Kitchen,Cookware Set,Consumer,4,12580,0.15,3436,0.2731,Net Banking
+AM-10154,2026-04-17,South,Hyderabad,Home & Kitchen,Cookware Set,Corporate,5,38475,0.1,8988,0.2336,Credit Card
+AM-10155,2026-04-17,South,Hyderabad,Electronics,Headphones,Consumer,5,41650,0.15,5526,0.1327,Credit Card
+AM-10156,2026-04-18,Central,Indore,Electronics,Bluetooth Speaker,Corporate,3,39219,0.15,519,0.0132,COD
+AM-10157,2026-04-18,East,Bhubaneswar,Fashion,Jacket,Consumer,1,1323,0.1,396,0.2993,Credit Card
+AM-10158,2026-04-18,East,Patna,Electronics,Smartwatch,Consumer,1,2372,0.15,314,0.1324,COD
+AM-10159,2026-04-18,North,Lucknow,Electronics,Smartwatch,Consumer,5,62600,0.2,-1344,-0.0215,UPI
+AM-10160,2026-04-18,East,Bhubaneswar,Beauty,Perfume,Consumer,1,1665,0.1,716,0.43,UPI
+AM-10161,2026-04-18,South,Hyderabad,Beauty,Hair Dryer,Consumer,1,874,0.05,420,0.4805,Wallet
+AM-10162,2026-04-18,North,Delhi,Home & Kitchen,Vacuum Cleaner,Consumer,1,6372,0.1,1634,0.2564,UPI
+AM-10163,2026-04-18,South,Chennai,Electronics,Smartwatch,Consumer,3,27855,0.25,-1181,-0.0424,Credit Card
+AM-10164,2026-04-18,East,Guwahati,Beauty,Hair Dryer,Consumer,3,7866,0.05,3861,0.4908,Credit Card
+AM-10165,2026-04-18,West,Surat,Electronics,Smartwatch,Consumer,2,20736,0.2,-1069,-0.0516,Wallet
+AM-10166,2026-04-18,South,Kochi,Electronics,Smartwatch,Consumer,2,7792,0.2,602,0.0773,UPI
+AM-10167,2026-04-18,South,Bengaluru,Home & Kitchen,Bedsheet Set,Home Office,1,3664,0.15,610,0.1665,UPI
+AM-10168,2026-04-18,East,Kolkata,Office Supplies,Ergonomic Chair,Consumer,2,10925,0.05,5249,0.4805,Debit Card
+AM-10169,2026-04-19,East,Bhubaneswar,Electronics,Headphones,Home Office,1,6928,0.2,170,0.0245,Credit Card
+AM-10170,2026-04-19,North,Lucknow,Electronics,Power Bank,Consumer,1,7980,0.25,-462,-0.0579,Credit Card
+AM-10171,2026-04-19,North,Lucknow,Electronics,Headphones,Home Office,1,2569,0.3,-291,-0.1133,UPI
+AM-10172,2026-04-19,North,Lucknow,Home & Kitchen,Cookware Set,Consumer,4,6336,0.2,1163,0.1836,UPI
+AM-10173,2026-04-19,South,Chennai,Fashion,Kurta Set,Consumer,1,1125,0.1,333,0.296,UPI
+AM-10174,2026-04-19,South,Hyderabad,Beauty,Skincare Kit,Corporate,4,4464,0.1,1983,0.4442,COD
+AM-10175,2026-04-19,East,Patna,Electronics,Power Bank,Corporate,3,23328,0.2,971,0.0416,Debit Card
+AM-10176,2026-04-19,West,Mumbai,Office Supplies,Desk Lamp,Consumer,2,5900,0.0,2901,0.4917,Debit Card
+AM-10177,2026-04-19,Central,Raipur,Home & Kitchen,Cookware Set,Consumer,1,6840,0.1,2183,0.3192,UPI
+AM-10178,2026-04-19,Central,Indore,Beauty,Skincare Kit,Consumer,5,10545,0.05,4445,0.4215,UPI
+AM-10179,2026-04-19,West,Surat,Office Supplies,Organizer Set,Consumer,1,4950,0.1,2409,0.4867,Debit Card
+AM-10180,2026-04-19,West,Pune,Home & Kitchen,Vacuum Cleaner,Corporate,3,20385,0.1,6333,0.3107,UPI
+AM-10181,2026-04-19,South,Hyderabad,Beauty,Makeup Palette,Corporate,3,11001,0.05,5272,0.4792,Net Banking
+AM-10182,2026-04-19,North,Jaipur,Electronics,Bluetooth Speaker,Consumer,4,23460,0.25,-130,-0.0055,COD
+AM-10183,2026-04-19,South,Chennai,Fashion,Jacket,Consumer,3,4539,0.15,1474,0.3247,Net Banking
+AM-10184,2026-04-20,East,Guwahati,Fashion,Handbag,Consumer,3,8448,0.2,1464,0.1733,Debit Card
+AM-10185,2026-04-20,West,Ahmedabad,Fashion,Jacket,Home Office,3,8952,0.2,2256,0.252,UPI
+AM-10186,2026-04-20,West,Surat,Beauty,Skincare Kit,Corporate,4,4752,0.1,2148,0.452,UPI
+AM-10187,2026-04-20,North,Delhi,Home & Kitchen,Vacuum Cleaner,Home Office,1,6316,0.15,1296,0.2052,UPI
+AM-10188,2026-04-20,South,Bengaluru,Fashion,Jeans,Consumer,3,11704,0.15,3154,0.2695,UPI
+AM-10189,2026-04-20,West,Pune,Beauty,Perfume,Consumer,1,1449,0.1,656,0.4527,UPI
+AM-10190,2026-04-20,East,Kolkata,Fashion,Jeans,Consumer,2,6354,0.1,2305,0.3628,COD
+AM-10191,2026-04-20,North,Delhi,Beauty,Hair Dryer,Consumer,1,986,0.15,375,0.3803,UPI
+AM-10192,2026-04-20,North,Chandigarh,Fashion,Sneakers,Consumer,2,2278,0.15,570,0.2502,UPI
+AM-10193,2026-04-21,Central,Indore,Fashion,Jeans,Home Office,1,2193,0.15,541,0.2467,Wallet
+AM-10194,2026-04-21,North,Jaipur,Beauty,Perfume,Corporate,5,4050,0.1,1668,0.4119,UPI
+AM-10195,2026-04-21,West,Surat,Electronics,Headphones,Home Office,2,19824,0.2,400,0.0202,Debit Card
+AM-10196,2026-04-21,North,Lucknow,Fashion,Jacket,Consumer,2,3485,0.15,996,0.2858,UPI
+AM-10197,2026-04-21,South,Chennai,Fashion,Jeans,Consumer,1,3753,0.1,1046,0.2787,UPI
+AM-10198,2026-04-21,East,Guwahati,Fashion,Handbag,Corporate,4,15984,0.1,5207,0.3258,Credit Card
+AM-10199,2026-04-21,South,Kochi,Electronics,Tablet,Consumer,2,17391,0.15,-54,-0.0031,COD
+AM-10200,2026-04-21,North,Chandigarh,Electronics,Headphones,Corporate,5,47040,0.2,-3489,-0.0742,COD
+AM-10201,2026-04-21,East,Bhubaneswar,Fashion,Handbag,Consumer,1,963,0.1,330,0.3427,UPI
+AM-10202,2026-04-21,North,Jaipur,Fashion,Jacket,Consumer,1,3840,0.2,1102,0.287,COD
+AM-10203,2026-04-21,East,Kolkata,Fashion,Sneakers,Consumer,2,6545,0.15,1584,0.242,Credit Card
+AM-10204,2026-04-21,West,Mumbai,Electronics,Bluetooth Speaker,Consumer,1,5182,0.25,-449,-0.0866,Credit Card
+AM-10205,2026-04-21,East,Guwahati,Fashion,Sneakers,Consumer,1,3689,0.15,1129,0.306,UPI
+AM-10206,2026-04-22,West,Surat,Beauty,Makeup Palette,Consumer,1,1800,0.1,798,0.4433,UPI
+AM-10207,2026-04-22,North,Delhi,Beauty,Makeup Palette,Home Office,1,2592,0.1,1027,0.3962,Debit Card
+AM-10208,2026-04-22,South,Hyderabad,Home & Kitchen,Bedsheet Set,Corporate,5,32632,0.05,11266,0.3452,Credit Card
+AM-10209,2026-04-22,North,Delhi,Electronics,Tablet,Home Office,4,38910,0.25,-2758,-0.0709,UPI
+AM-10210,2026-04-22,West,Pune,Home & Kitchen,Mixer Grinder,Consumer,2,10127,0.05,3382,0.334,UPI
+AM-10211,2026-04-22,West,Ahmedabad,Fashion,Sneakers,Consumer,4,5760,0.1,1920,0.3333,UPI
+AM-10212,2026-04-23,North,Delhi,Fashion,Jacket,Corporate,2,5920,0.2,1691,0.2856,UPI
+AM-10213,2026-04-23,West,Mumbai,Beauty,Hair Dryer,Corporate,3,1836,0.1,855,0.4657,UPI
+AM-10214,2026-04-23,North,Chandigarh,Home & Kitchen,Cookware Set,Consumer,3,6638,0.25,486,0.0732,UPI
+AM-10215,2026-04-23,Central,Raipur,Electronics,Smartwatch,Consumer,2,15760,0.2,-427,-0.0271,UPI
+AM-10216,2026-04-23,South,Kochi,Beauty,Trimmer,Home Office,5,3330,0.1,1435,0.4309,Credit Card
+AM-10217,2026-04-23,West,Surat,Home & Kitchen,Bedsheet Set,Consumer,1,2160,0.1,484,0.2241,Credit Card
+AM-10218,2026-04-23,South,Hyderabad,Electronics,Tablet,Home Office,3,26546,0.15,2715,0.1023,Debit Card
+AM-10219,2026-04-23,South,Chennai,Fashion,Jacket,Consumer,1,3825,0.15,1158,0.3027,UPI
+AM-10220,2026-04-23,North,Lucknow,Home & Kitchen,Cookware Set,Consumer,1,5304,0.2,941,0.1774,COD
+AM-10221,2026-04-23,West,Pune,Office Supplies,Printer Ink,Consumer,2,1805,0.05,857,0.4748,Credit Card
+AM-10222,2026-04-24,Central,Raipur,Electronics,Smartwatch,Corporate,6,35445,0.15,4703,0.1327,Credit Card
+AM-10223,2026-04-24,West,Ahmedabad,Home & Kitchen,Mixer Grinder,Consumer,1,7429,0.05,2592,0.3489,Credit Card
+AM-10224,2026-04-24,North,Lucknow,Electronics,Power Bank,Consumer,1,2416,0.2,75,0.031,Credit Card
+AM-10225,2026-04-24,Central,Indore,Fashion,Handbag,Consumer,2,1785,0.15,383,0.2146,UPI
+AM-10226,2026-04-24,North,Chandigarh,Fashion,Jeans,Consumer,2,1245,0.25,279,0.2241,Net Banking
+AM-10227,2026-04-24,Central,Nagpur,Office Supplies,Printer Ink,Consumer,1,2960,0.0,1631,0.551,UPI
+AM-10228,2026-04-24,North,Lucknow,Office Supplies,Desk Lamp,Consumer,3,16929,0.05,8364,0.4941,UPI
+AM-10229,2026-04-25,South,Hyderabad,Home & Kitchen,Mixer Grinder,Consumer,1,8218,0.05,2340,0.2847,Net Banking
+AM-10230,2026-04-25,West,Surat,Electronics,Bluetooth Speaker,Consumer,2,17216,0.2,857,0.0498,Debit Card
+AM-10231,2026-04-25,West,Mumbai,Office Supplies,Organizer Set,Corporate,4,19342,0.05,8891,0.4597,Wallet
+AM-10232,2026-04-25,West,Surat,Electronics,Bluetooth Speaker,Consumer,1,6776,0.2,-157,-0.0232,UPI
+AM-10233,2026-04-25,East,Kolkata,Fashion,Handbag,Home Office,1,1314,0.1,380,0.2892,COD
+AM-10234,2026-04-25,Central,Nagpur,Electronics,Tablet,Home Office,1,3884,0.15,420,0.1081,Credit Card
+AM-10235,2026-04-25,West,Pune,Electronics,Headphones,Home Office,1,8576,0.2,375,0.0437,Debit Card
+AM-10236,2026-04-25,North,Lucknow,Office Supplies,Ergonomic Chair,Consumer,1,2232,0.05,1045,0.4682,Wallet
+AM-10237,2026-04-25,South,Bengaluru,Office Supplies,Desk Lamp,Consumer,1,3636,0.1,1587,0.4365,Debit Card
+AM-10238,2026-04-25,West,Pune,Office Supplies,Organizer Set,Consumer,2,684,0.1,326,0.4766,Credit Card
+AM-10239,2026-04-25,West,Surat,Electronics,Power Bank,Home Office,2,27488,0.2,-1559,-0.0567,Credit Card
+AM-10240,2026-04-25,South,Chennai,Home & Kitchen,Bedsheet Set,Corporate,4,6664,0.15,1723,0.2586,Debit Card
+AM-10241,2026-04-25,West,Ahmedabad,Electronics,Tablet,Consumer,1,3112,0.2,-170,-0.0546,Credit Card
+AM-10242,2026-04-25,West,Mumbai,Fashion,Kurta Set,Consumer,2,2196,0.1,568,0.2587,Credit Card
+AM-10243,2026-04-25,East,Patna,Office Supplies,Notebook Pack,Consumer,1,330,0.0,166,0.503,Credit Card
+AM-10244,2026-04-25,North,Chandigarh,Electronics,Smartwatch,Corporate,3,15540,0.3,-1947,-0.1253,UPI
+AM-10245,2026-04-25,West,Pune,Electronics,Headphones,Corporate,7,32368,0.2,1285,0.0397,Wallet
+AM-10246,2026-04-25,North,Lucknow,Electronics,Power Bank,Home Office,1,13032,0.2,816,0.0626,UPI
+AM-10247,2026-04-25,North,Lucknow,Electronics,Smartwatch,Consumer,1,4545,0.25,60,0.0132,Debit Card
+AM-10248,2026-04-25,West,Mumbai,Beauty,Perfume,Consumer,2,1224,0.15,443,0.3619,Debit Card
+AM-10249,2026-04-25,North,Chandigarh,Fashion,Jacket,Consumer,1,1472,0.2,372,0.2527,UPI
+AM-10250,2026-04-25,North,Lucknow,Beauty,Makeup Palette,Consumer,1,2440,0.2,834,0.3418,Credit Card
+AM-10251,2026-04-25,East,Guwahati,Fashion,Kurta Set,Home Office,4,15168,0.2,2738,0.1805,UPI
+AM-10252,2026-04-25,West,Mumbai,Office Supplies,Desk Lamp,Consumer,1,466,0.05,240,0.515,Debit Card
+AM-10253,2026-04-25,West,Surat,Office Supplies,Desk Lamp,Consumer,1,5529,0.05,2821,0.5102,UPI
+AM-10254,2026-04-26,South,Bengaluru,Home & Kitchen,Air Fryer,Corporate,3,5508,0.1,1521,0.2761,UPI
+AM-10255,2026-04-26,South,Chennai,Fashion,Handbag,Consumer,1,3610,0.05,1440,0.3989,UPI
+AM-10256,2026-04-26,North,Lucknow,Fashion,Sneakers,Corporate,3,6758,0.15,1793,0.2653,UPI
+AM-10257,2026-04-26,North,Delhi,Office Supplies,Printer Ink,Consumer,3,11730,0.15,4838,0.4124,Debit Card
+AM-10258,2026-04-26,South,Bengaluru,Fashion,Kurta Set,Corporate,3,7089,0.15,2139,0.3017,COD
+AM-10259,2026-04-26,North,Jaipur,Electronics,Tablet,Consumer,3,37368,0.2,-1670,-0.0447,Credit Card
+AM-10260,2026-04-26,East,Bhubaneswar,Office Supplies,Printer Ink,Consumer,3,13480,0.05,6169,0.4576,Credit Card
+AM-10261,2026-04-26,Central,Indore,Beauty,Makeup Palette,Consumer,4,3496,0.05,1479,0.4231,UPI
+AM-10262,2026-04-26,East,Kolkata,Beauty,Hair Dryer,Corporate,3,9045,0.1,3444,0.3808,UPI
+AM-10263,2026-04-26,North,Jaipur,Electronics,Headphones,Home Office,3,19260,0.25,-92,-0.0048,UPI
+AM-10264,2026-04-26,North,Lucknow,Electronics,Bluetooth Speaker,Consumer,2,8096,0.2,-619,-0.0765,Net Banking
+AM-10265,2026-04-26,North,Delhi,Home & Kitchen,Mixer Grinder,Corporate,6,24336,0.2,4058,0.1667,Credit Card
+AM-10266,2026-04-26,North,Lucknow,Electronics,Power Bank,Consumer,3,16695,0.25,-1275,-0.0764,UPI
+AM-10267,2026-04-26,West,Mumbai,Fashion,Jacket,Consumer,2,4446,0.1,1505,0.3385,Credit Card
+AM-10268,2026-04-26,East,Patna,Fashion,Kurta Set,Consumer,1,2826,0.1,821,0.2905,UPI
+AM-10269,2026-04-26,West,Mumbai,Electronics,Headphones,Consumer,1,7259,0.15,523,0.072,COD
+AM-10270,2026-04-26,North,Chandigarh,Fashion,Sneakers,Consumer,2,3859,0.15,916,0.2374,UPI
+AM-10271,2026-04-26,North,Chandigarh,Office Supplies,Ergonomic Chair,Corporate,1,4462,0.15,2056,0.4608,UPI
+AM-10272,2026-04-26,West,Mumbai,Fashion,Jeans,Consumer,1,1164,0.15,300,0.2577,Net Banking
+AM-10273,2026-04-26,North,Jaipur,Electronics,Smartwatch,Consumer,1,6503,0.3,-1182,-0.1818,UPI
+AM-10274,2026-04-26,North,Jaipur,Electronics,Headphones,Corporate,1,3512,0.2,-263,-0.0749,Debit Card
+AM-10275,2026-04-26,West,Surat,Office Supplies,Notebook Pack,Consumer,1,1719,0.1,790,0.4596,Debit Card
+AM-10276,2026-04-26,North,Jaipur,Beauty,Perfume,Home Office,1,2880,0.1,1265,0.4392,Debit Card
+AM-10277,2026-04-26,South,Chennai,Home & Kitchen,Bedsheet Set,Consumer,1,7749,0.1,2477,0.3197,UPI
+AM-10278,2026-04-27,East,Bhubaneswar,Home & Kitchen,Air Fryer,Corporate,6,41922,0.15,7427,0.1772,Debit Card
+AM-10279,2026-04-27,North,Chandigarh,Beauty,Makeup Palette,Corporate,4,3672,0.15,1486,0.4047,Credit Card
+AM-10280,2026-04-27,North,Delhi,Fashion,Handbag,Consumer,1,3304,0.2,717,0.217,Credit Card
+AM-10281,2026-04-27,East,Kolkata,Electronics,Smartwatch,Corporate,4,48704,0.2,1683,0.0346,COD
+AM-10282,2026-04-27,West,Pune,Electronics,Power Bank,Corporate,5,59968,0.15,5485,0.0915,Credit Card
+AM-10283,2026-04-27,South,Chennai,Home & Kitchen,Mixer Grinder,Home Office,1,1309,0.15,244,0.1864,Credit Card
+AM-10284,2026-04-27,South,Kochi,Office Supplies,Printer Ink,Consumer,2,810,0.1,380,0.4691,UPI
+AM-10285,2026-04-27,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,Consumer,3,22923,0.1,7378,0.3219,Credit Card
+AM-10286,2026-04-27,West,Mumbai,Home & Kitchen,Mixer Grinder,Home Office,1,1738,0.05,452,0.2601,COD
+AM-10287,2026-04-27,North,Chandigarh,Beauty,Skincare Kit,Consumer,1,544,0.15,197,0.3621,UPI
+AM-10288,2026-04-27,West,Ahmedabad,Fashion,Jacket,Home Office,1,2889,0.1,908,0.3143,UPI
+AM-10289,2026-04-27,West,Surat,Fashion,Handbag,Consumer,5,18998,0.15,5395,0.284,UPI
+AM-10290,2026-04-27,South,Kochi,Fashion,Kurta Set,Consumer,2,6936,0.15,1650,0.2379,UPI
+AM-10291,2026-04-27,West,Mumbai,Office Supplies,Desk Lamp,Consumer,1,2250,0.1,993,0.4413,UPI
+AM-10292,2026-04-27,North,Delhi,Home & Kitchen,Cookware Set,Consumer,1,3544,0.15,808,0.228,Credit Card
+AM-10293,2026-04-28,Central,Indore,Fashion,Sneakers,Consumer,1,1216,0.15,285,0.2344,Credit Card
+AM-10294,2026-04-28,North,Delhi,Fashion,Kurta Set,Consumer,1,3420,0.25,679,0.1985,Debit Card
+AM-10295,2026-04-28,East,Kolkata,Fashion,Handbag,Consumer,1,4392,0.1,1415,0.3222,UPI
+AM-10296,2026-04-28,East,Bhubaneswar,Electronics,Power Bank,Corporate,8,57856,0.2,519,0.009,COD
+AM-10297,2026-04-28,West,Mumbai,Fashion,Jeans,Corporate,1,1952,0.2,414,0.2121,Credit Card
+AM-10298,2026-04-28,West,Mumbai,Office Supplies,Ergonomic Chair,Consumer,1,5103,0.1,2282,0.4472,Credit Card
+AM-10299,2026-04-28,East,Patna,Beauty,Trimmer,Consumer,3,9801,0.1,4540,0.4632,UPI
+AM-10300,2026-04-28,West,Pune,Fashion,Handbag,Corporate,4,6816,0.2,1399,0.2053,UPI
+AM-10301,2026-04-28,West,Mumbai,Electronics,Headphones,Consumer,4,12270,0.25,-312,-0.0254,UPI
+AM-10302,2026-04-28,East,Bhubaneswar,Beauty,Trimmer,Consumer,1,1396,0.05,615,0.4405,COD
+AM-10303,2026-04-29,North,Lucknow,Electronics,Bluetooth Speaker,Home Office,5,43480,0.2,-783,-0.018,Credit Card
+AM-10304,2026-04-29,North,Lucknow,Office Supplies,Notebook Pack,Consumer,1,1071,0.1,531,0.4958,UPI
+AM-10305,2026-04-29,South,Chennai,Home & Kitchen,Mixer Grinder,Corporate,4,9282,0.15,2340,0.2521,COD
+AM-10306,2026-04-29,Central,Indore,Fashion,Jeans,Consumer,1,3086,0.15,864,0.28,Credit Card
+AM-10307,2026-04-29,South,Bengaluru,Beauty,Skincare Kit,Consumer,1,2128,0.05,972,0.4568,UPI
+AM-10308,2026-04-29,West,Surat,Home & Kitchen,Cookware Set,Corporate,3,8236,0.05,2680,0.3254,Credit Card
+AM-10309,2026-04-29,North,Delhi,Home & Kitchen,Vacuum Cleaner,Home Office,1,4472,0.2,668,0.1494,UPI
+AM-10310,2026-04-29,East,Guwahati,Beauty,Makeup Palette,Consumer,1,2592,0.1,1049,0.4047,Debit Card
+AM-10311,2026-04-29,North,Lucknow,Home & Kitchen,Bedsheet Set,Home Office,3,15096,0.2,1867,0.1237,UPI
+AM-10312,2026-04-29,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,Corporate,4,4392,0.1,1333,0.3035,Debit Card
+AM-10313,2026-04-29,West,Pune,Home & Kitchen,Cookware Set,Corporate,5,19935,0.1,5421,0.2719,UPI
+AM-10314,2026-04-29,West,Ahmedabad,Home & Kitchen,Air Fryer,Corporate,3,23199,0.05,8170,0.3522,Credit Card
+AM-10315,2026-04-29,North,Lucknow,Home & Kitchen,Vacuum Cleaner,Corporate,4,26244,0.1,6119,0.2332,Wallet
+AM-10316,2026-04-29,East,Patna,Beauty,Hair Dryer,Consumer,1,3285,0.1,1434,0.4365,Debit Card
+AM-10317,2026-04-29,Central,Indore,Home & Kitchen,Vacuum Cleaner,Home Office,3,18765,0.1,4835,0.2577,UPI
+AM-10318,2026-04-30,South,Kochi,Electronics,Headphones,Corporate,5,49760,0.2,-367,-0.0074,UPI
+AM-10319,2026-04-30,North,Chandigarh,Office Supplies,Organizer Set,Home Office,3,4536,0.2,1705,0.3759,Wallet
+AM-10320,2026-04-30,South,Kochi,Fashion,Kurta Set,Consumer,3,8520,0.2,2428,0.285,UPI
+AM-10321,2026-04-30,Central,Raipur,Fashion,Jacket,Consumer,1,1581,0.15,518,0.3276,UPI
+AM-10322,2026-04-30,West,Surat,Home & Kitchen,Vacuum Cleaner,Consumer,1,5544,0.1,1801,0.3249,COD
+AM-10323,2026-04-30,Central,Nagpur,Electronics,Power Bank,Home Office,2,10905,0.25,-628,-0.0576,Credit Card
+AM-10324,2026-04-30,North,Chandigarh,Fashion,Sneakers,Consumer,1,2055,0.25,328,0.1596,COD
+AM-10325,2026-04-30,North,Chandigarh,Fashion,Handbag,Consumer,1,3646,0.15,923,0.2532,COD
+AM-10326,2026-04-30,East,Kolkata,Office Supplies,Notebook Pack,Corporate,4,7668,0.1,3781,0.4931,Net Banking
+AM-10327,2026-04-30,North,Delhi,Office Supplies,Ergonomic Chair,Consumer,1,2652,0.15,1050,0.3959,Debit Card
+AM-10328,2026-04-30,North,Lucknow,Office Supplies,Notebook Pack,Consumer,1,4488,0.15,2098,0.4675,Debit Card
+AM-10329,2026-04-30,South,Kochi,Electronics,Tablet,Consumer,2,14256,0.2,685,0.048,Debit Card
+AM-10330,2026-04-30,West,Pune,Electronics,Tablet,Home Office,1,12704,0.2,568,0.0447,UPI
+AM-10331,2026-04-30,South,Bengaluru,Electronics,Smartwatch,Consumer,3,30288,0.2,1998,0.066,UPI
+AM-10332,2026-05-01,West,Surat,Fashion,Kurta Set,Consumer,2,8500,0.15,2511,0.2954,UPI
+AM-10333,2026-05-01,South,Kochi,Home & Kitchen,Air Fryer,Corporate,3,4833,0.1,1534,0.3174,Net Banking
+AM-10334,2026-05-01,South,Bengaluru,Office Supplies,Notebook Pack,Consumer,3,10260,0.0,4954,0.4828,Net Banking
+AM-10335,2026-05-01,South,Bengaluru,Beauty,Hair Dryer,Home Office,1,2142,0.15,829,0.387,Net Banking
+AM-10336,2026-05-01,North,Chandigarh,Office Supplies,Desk Lamp,Corporate,5,6982,0.05,3345,0.4791,UPI
+AM-10337,2026-05-01,Central,Bhopal,Office Supplies,Organizer Set,Consumer,1,2138,0.05,1079,0.5047,UPI
+AM-10338,2026-05-01,East,Guwahati,Electronics,Bluetooth Speaker,Consumer,1,6772,0.25,-685,-0.1012,UPI
+AM-10339,2026-05-01,East,Kolkata,Fashion,Jacket,Home Office,1,3915,0.1,1006,0.257,UPI
+AM-10340,2026-05-01,South,Hyderabad,Beauty,Skincare Kit,Consumer,2,1278,0.1,573,0.4484,Net Banking
+AM-10341,2026-05-01,South,Kochi,Electronics,Headphones,Consumer,1,10488,0.2,-14,-0.0013,Net Banking
+AM-10342,2026-05-01,South,Bengaluru,Fashion,Sneakers,Corporate,2,2669,0.15,815,0.3054,Wallet
+AM-10343,2026-05-01,South,Hyderabad,Fashion,Sneakers,Consumer,1,2745,0.1,729,0.2656,Wallet
+AM-10344,2026-05-01,Central,Raipur,Electronics,Bluetooth Speaker,Home Office,1,6752,0.2,298,0.0441,Net Banking
+AM-10345,2026-05-01,North,Lucknow,Electronics,Power Bank,Corporate,2,21780,0.25,113,0.0052,UPI
+AM-10346,2026-05-02,South,Kochi,Electronics,Headphones,Home Office,4,25280,0.2,-478,-0.0189,Debit Card
+AM-10347,2026-05-02,South,Bengaluru,Electronics,Smartwatch,Consumer,3,34176,0.2,-924,-0.027,Debit Card
+AM-10348,2026-05-02,West,Pune,Office Supplies,Notebook Pack,Consumer,1,3040,0.0,1654,0.5441,Net Banking
+AM-10349,2026-05-02,West,Mumbai,Office Supplies,Notebook Pack,Consumer,4,8028,0.1,4045,0.5039,UPI
+AM-10350,2026-05-02,South,Hyderabad,Home & Kitchen,Bedsheet Set,Consumer,1,3771,0.1,801,0.2124,Net Banking
+AM-10351,2026-05-02,South,Hyderabad,Home & Kitchen,Mixer Grinder,Consumer,1,5035,0.05,1382,0.2745,UPI
+AM-10352,2026-05-02,North,Delhi,Electronics,Smartwatch,Consumer,1,8336,0.2,-463,-0.0555,Debit Card
+AM-10353,2026-05-02,West,Ahmedabad,Beauty,Perfume,Consumer,3,6885,0.15,2818,0.4093,Debit Card
+AM-10354,2026-05-02,North,Jaipur,Home & Kitchen,Vacuum Cleaner,Consumer,3,16392,0.2,2191,0.1337,Wallet
+AM-10355,2026-05-02,Central,Bhopal,Fashion,Jeans,Home Office,1,1360,0.15,331,0.2434,Credit Card
+AM-10356,2026-05-02,North,Jaipur,Fashion,Jacket,Consumer,4,4556,0.15,1020,0.2239,Credit Card
+AM-10357,2026-05-02,North,Delhi,Beauty,Trimmer,Corporate,3,1658,0.15,588,0.3546,Debit Card
+AM-10358,2026-05-02,South,Hyderabad,Electronics,Smartwatch,Consumer,4,36160,0.2,240,0.0066,Wallet
+AM-10359,2026-05-02,North,Lucknow,Home & Kitchen,Vacuum Cleaner,Consumer,1,5984,0.15,1613,0.2696,Wallet
+AM-10360,2026-05-02,Central,Indore,Home & Kitchen,Vacuum Cleaner,Consumer,1,3573,0.1,933,0.2611,COD
+AM-10361,2026-05-02,South,Chennai,Fashion,Handbag,Consumer,3,7296,0.05,2779,0.3809,UPI
+AM-10362,2026-05-02,North,Delhi,Office Supplies,Notebook Pack,Corporate,4,7344,0.15,3127,0.4258,Debit Card
+AM-10363,2026-05-03,South,Bengaluru,Fashion,Handbag,Consumer,3,9129,0.15,2807,0.3075,UPI
+AM-10364,2026-05-03,West,Pune,Fashion,Handbag,Corporate,4,13260,0.15,3567,0.269,Credit Card
+AM-10365,2026-05-03,South,Kochi,Office Supplies,Notebook Pack,Home Office,1,4570,0.0,2248,0.4919,UPI
+AM-10366,2026-05-03,West,Pune,Electronics,Tablet,Consumer,1,2672,0.2,-104,-0.0389,UPI
+AM-10367,2026-05-03,East,Kolkata,Office Supplies,Printer Ink,Home Office,5,3050,0.0,1534,0.503,Debit Card
+AM-10368,2026-05-03,North,Chandigarh,Electronics,Bluetooth Speaker,Home Office,2,22946,0.3,-1780,-0.0776,Net Banking
+AM-10369,2026-05-03,West,Pune,Home & Kitchen,Bedsheet Set,Consumer,2,2592,0.1,809,0.3121,Credit Card
+AM-10370,2026-05-03,West,Ahmedabad,Fashion,Jacket,Home Office,3,11092,0.15,2382,0.2147,Net Banking
+AM-10371,2026-05-03,North,Delhi,Beauty,Trimmer,Consumer,2,5202,0.15,1773,0.3408,Net Banking
+AM-10372,2026-05-03,West,Mumbai,Electronics,Headphones,Consumer,1,10872,0.15,1333,0.1226,COD
+AM-10373,2026-05-03,West,Mumbai,Electronics,Smartwatch,Home Office,4,12096,0.2,491,0.0406,Debit Card
+AM-10374,2026-05-03,Central,Nagpur,Fashion,Kurta Set,Home Office,1,3186,0.1,1052,0.3302,Net Banking
+AM-10375,2026-05-03,South,Hyderabad,Fashion,Jeans,Consumer,2,1768,0.15,444,0.2511,Debit Card
+AM-10376,2026-05-03,North,Jaipur,Fashion,Jacket,Consumer,4,8602,0.15,2245,0.261,Credit Card
+AM-10377,2026-05-04,Central,Indore,Home & Kitchen,Air Fryer,Consumer,5,19890,0.1,4988,0.2508,UPI
+AM-10378,2026-05-04,North,Chandigarh,Beauty,Skincare Kit,Corporate,7,24759,0.1,11249,0.4543,Wallet
+AM-10379,2026-05-04,East,Kolkata,Office Supplies,Ergonomic Chair,Consumer,1,4680,0.0,2370,0.5064,Wallet
+AM-10380,2026-05-04,North,Jaipur,Beauty,Skincare Kit,Home Office,3,3188,0.15,1352,0.4241,UPI
+AM-10381,2026-05-04,East,Patna,Home & Kitchen,Air Fryer,Consumer,5,16532,0.15,3249,0.1965,Credit Card
+AM-10382,2026-05-04,South,Bengaluru,Electronics,Power Bank,Consumer,2,20332,0.15,1683,0.0828,COD
+AM-10383,2026-05-04,North,Chandigarh,Beauty,Makeup Palette,Corporate,8,19968,0.2,7519,0.3766,Credit Card
+AM-10384,2026-05-04,East,Bhubaneswar,Electronics,Headphones,Consumer,1,5736,0.2,-33,-0.0058,Wallet
+AM-10385,2026-05-04,South,Hyderabad,Fashion,Kurta Set,Consumer,3,7548,0.15,1895,0.2511,UPI
+AM-10386,2026-05-04,West,Pune,Office Supplies,Organizer Set,Home Office,3,9315,0.1,4186,0.4494,UPI
+AM-10387,2026-05-04,North,Lucknow,Beauty,Hair Dryer,Consumer,1,1828,0.15,684,0.3742,Credit Card
+AM-10388,2026-05-04,South,Hyderabad,Electronics,Headphones,Home Office,2,23613,0.15,-26,-0.0011,UPI
+AM-10389,2026-05-04,South,Hyderabad,Fashion,Kurta Set,Consumer,1,3553,0.15,822,0.2314,UPI
+AM-10390,2026-05-05,South,Chennai,Electronics,Tablet,Home Office,1,11552,0.15,260,0.0225,Credit Card
+AM-10391,2026-05-05,West,Mumbai,Electronics,Tablet,Consumer,4,23766,0.15,2403,0.1011,UPI
+AM-10392,2026-05-05,North,Chandigarh,Fashion,Kurta Set,Consumer,3,3876,0.15,826,0.2131,UPI
+AM-10393,2026-05-05,East,Patna,Fashion,Kurta Set,Corporate,2,7905,0.15,1739,0.22,UPI
+AM-10394,2026-05-05,West,Mumbai,Electronics,Headphones,Consumer,2,13245,0.25,-1266,-0.0956,Net Banking
+AM-10395,2026-05-05,South,Bengaluru,Electronics,Bluetooth Speaker,Corporate,5,31918,0.15,411,0.0129,UPI
+AM-10396,2026-05-05,North,Lucknow,Home & Kitchen,Mixer Grinder,Consumer,2,13107,0.15,3499,0.267,Credit Card
+AM-10397,2026-05-05,West,Mumbai,Home & Kitchen,Air Fryer,Consumer,3,4563,0.1,1356,0.2972,Debit Card
+AM-10398,2026-05-05,South,Chennai,Electronics,Bluetooth Speaker,Consumer,2,6496,0.2,390,0.06,Credit Card
+AM-10399,2026-05-05,West,Ahmedabad,Beauty,Makeup Palette,Corporate,4,1734,0.15,731,0.4216,Debit Card
+AM-10400,2026-05-05,Central,Raipur,Office Supplies,Notebook Pack,Corporate,2,6880,0.0,3656,0.5314,Net Banking
+AM-10401,2026-05-05,South,Hyderabad,Fashion,Sneakers,Consumer,2,6171,0.15,1551,0.2513,Credit Card
+AM-10402,2026-05-05,South,Hyderabad,Fashion,Kurta Set,Consumer,1,1810,0.15,449,0.2481,UPI
+AM-10403,2026-05-05,South,Chennai,Office Supplies,Ergonomic Chair,Home Office,2,3600,0.0,1736,0.4822,Debit Card
+AM-10404,2026-05-05,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,Consumer,2,3006,0.1,954,0.3174,UPI
+AM-10405,2026-05-06,North,Chandigarh,Electronics,Power Bank,Consumer,2,9000,0.25,-456,-0.0507,COD
+AM-10406,2026-05-06,North,Jaipur,Fashion,Sneakers,Corporate,4,6720,0.2,1558,0.2318,Credit Card
+AM-10407,2026-05-06,North,Jaipur,Electronics,Tablet,Consumer,1,6760,0.2,36,0.0053,UPI
+AM-10408,2026-05-06,North,Chandigarh,Beauty,Perfume,Home Office,1,3176,0.2,1195,0.3763,Net Banking
+AM-10409,2026-05-06,West,Ahmedabad,Electronics,Smartwatch,Home Office,1,5464,0.2,-74,-0.0135,Net Banking
+AM-10410,2026-05-06,East,Bhubaneswar,Office Supplies,Notebook Pack,Home Office,1,3087,0.1,1394,0.4516,Debit Card
+AM-10411,2026-05-06,Central,Raipur,Electronics,Bluetooth Speaker,Consumer,4,59908,0.15,3484,0.0582,Net Banking
+AM-10412,2026-05-06,North,Delhi,Office Supplies,Notebook Pack,Corporate,3,14364,0.1,6860,0.4776,UPI
+AM-10413,2026-05-06,West,Ahmedabad,Fashion,Sneakers,Home Office,1,2169,0.1,668,0.308,Debit Card
+AM-10414,2026-05-06,South,Hyderabad,Electronics,Tablet,Consumer,1,3776,0.2,-176,-0.0466,Debit Card
+AM-10415,2026-05-06,North,Lucknow,Beauty,Hair Dryer,Consumer,5,9350,0.15,4034,0.4314,UPI
+AM-10416,2026-05-06,West,Mumbai,Beauty,Hair Dryer,Corporate,2,6390,0.1,2518,0.3941,UPI
+AM-10417,2026-05-07,North,Lucknow,Fashion,Jeans,Consumer,2,4811,0.15,1232,0.2561,COD
+AM-10418,2026-05-07,Central,Raipur,Electronics,Power Bank,Corporate,7,42959,0.15,2857,0.0665,Credit Card
+AM-10419,2026-05-07,East,Kolkata,Electronics,Power Bank,Consumer,2,24055,0.15,2130,0.0885,UPI
+AM-10420,2026-05-07,West,Mumbai,Beauty,Perfume,Consumer,2,3618,0.1,1363,0.3767,Wallet
+AM-10421,2026-05-07,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,Corporate,6,17493,0.15,3995,0.2284,COD
+AM-10422,2026-05-07,West,Ahmedabad,Electronics,Smartwatch,Consumer,1,5792,0.2,-359,-0.062,Net Banking
+AM-10423,2026-05-07,East,Bhubaneswar,Home & Kitchen,Air Fryer,Corporate,6,21573,0.15,5046,0.2339,UPI
+AM-10424,2026-05-07,West,Pune,Fashion,Jeans,Consumer,1,2932,0.15,741,0.2527,Credit Card
+AM-10425,2026-05-07,North,Chandigarh,Electronics,Headphones,Corporate,3,42216,0.2,612,0.0145,UPI
+AM-10426,2026-05-07,Central,Indore,Electronics,Tablet,Corporate,6,38064,0.2,2558,0.0672,UPI
+AM-10427,2026-05-07,Central,Indore,Electronics,Tablet,Home Office,2,29087,0.15,-367,-0.0126,UPI
+AM-10428,2026-05-07,North,Chandigarh,Office Supplies,Notebook Pack,Home Office,1,4156,0.15,1933,0.4651,UPI
+AM-10429,2026-05-07,South,Kochi,Beauty,Trimmer,Corporate,6,8094,0.05,3953,0.4884,Net Banking
+AM-10430,2026-05-08,South,Chennai,Electronics,Bluetooth Speaker,Consumer,5,63325,0.15,1170,0.0185,UPI
+AM-10431,2026-05-08,East,Patna,Home & Kitchen,Vacuum Cleaner,Consumer,1,8037,0.1,1769,0.2201,Net Banking
+AM-10432,2026-05-08,East,Patna,Fashion,Jeans,Consumer,2,6948,0.1,1828,0.2631,Debit Card
+AM-10433,2026-05-08,South,Hyderabad,Electronics,Power Bank,Consumer,1,7914,0.15,516,0.0652,Debit Card
+AM-10434,2026-05-08,West,Surat,Electronics,Tablet,Consumer,1,4896,0.2,10,0.002,Wallet
+AM-10435,2026-05-08,North,Chandigarh,Office Supplies,Organizer Set,Consumer,2,7429,0.15,3338,0.4493,Credit Card
+AM-10436,2026-05-08,North,Delhi,Electronics,Power Bank,Home Office,1,2191,0.3,-323,-0.1474,Debit Card
+AM-10437,2026-05-08,North,Jaipur,Office Supplies,Organizer Set,Home Office,3,13566,0.15,6169,0.4547,Debit Card
+AM-10438,2026-05-08,East,Patna,Fashion,Handbag,Consumer,2,5236,0.15,1427,0.2725,UPI
+AM-10439,2026-05-08,North,Chandigarh,Beauty,Hair Dryer,Corporate,5,6630,0.15,2848,0.4296,UPI
+AM-10440,2026-05-08,North,Delhi,Home & Kitchen,Cookware Set,Consumer,1,1944,0.2,432,0.2222,UPI
+AM-10441,2026-05-08,South,Hyderabad,Electronics,Bluetooth Speaker,Consumer,1,3723,0.15,18,0.0048,Credit Card
+AM-10442,2026-05-08,East,Patna,Electronics,Bluetooth Speaker,Consumer,2,17153,0.15,987,0.0575,UPI
+AM-10443,2026-05-08,South,Kochi,Electronics,Headphones,Corporate,4,28186,0.15,683,0.0242,Credit Card
+AM-10444,2026-05-09,North,Jaipur,Fashion,Handbag,Home Office,2,6915,0.25,1366,0.1975,COD
+AM-10445,2026-05-09,North,Lucknow,Office Supplies,Desk Lamp,Consumer,2,1712,0.2,636,0.3715,Net Banking
+AM-10446,2026-05-09,West,Pune,Office Supplies,Desk Lamp,Corporate,4,20976,0.05,11170,0.5325,Credit Card
+AM-10447,2026-05-09,South,Kochi,Office Supplies,Notebook Pack,Consumer,2,10583,0.05,5289,0.4998,UPI
+AM-10448,2026-05-09,West,Surat,Fashion,Kurta Set,Consumer,3,2601,0.15,821,0.3156,Debit Card
+AM-10449,2026-05-09,West,Mumbai,Electronics,Smartwatch,Home Office,1,6120,0.15,649,0.106,Net Banking
+AM-10450,2026-05-09,West,Ahmedabad,Electronics,Tablet,Consumer,4,44948,0.15,6010,0.1337,UPI
+AM-10451,2026-05-09,East,Bhubaneswar,Office Supplies,Desk Lamp,Consumer,2,8664,0.05,4436,0.512,Wallet
+AM-10452,2026-05-09,South,Kochi,Office Supplies,Printer Ink,Consumer,2,2322,0.1,1167,0.5026,Net Banking
+AM-10453,2026-05-09,Central,Raipur,Office Supplies,Organizer Set,Consumer,1,3591,0.1,1789,0.4982,UPI
+AM-10454,2026-05-09,West,Pune,Electronics,Bluetooth Speaker,Consumer,1,2376,0.2,137,0.0577,COD
+AM-10455,2026-05-09,North,Lucknow,Electronics,Power Bank,Consumer,3,28920,0.2,-718,-0.0248,Debit Card
+AM-10456,2026-05-09,North,Lucknow,Fashion,Kurta Set,Home Office,4,11580,0.25,1625,0.1403,Debit Card
+AM-10457,2026-05-09,South,Bengaluru,Electronics,Tablet,Corporate,6,49770,0.25,-1584,-0.0318,COD
+AM-10458,2026-05-09,North,Jaipur,Electronics,Headphones,Consumer,2,18048,0.2,-331,-0.0183,UPI
+AM-10459,2026-05-09,North,Jaipur,Electronics,Bluetooth Speaker,Corporate,3,10418,0.25,57,0.0055,UPI
+AM-10460,2026-05-09,North,Chandigarh,Fashion,Sneakers,Consumer,2,7440,0.2,1814,0.2438,UPI
+AM-10461,2026-05-09,West,Mumbai,Electronics,Smartwatch,Corporate,1,12488,0.25,-1589,-0.1272,UPI
+AM-10462,2026-05-09,North,Jaipur,Office Supplies,Desk Lamp,Consumer,3,892,0.15,372,0.417,UPI
+AM-10463,2026-05-09,North,Jaipur,Electronics,Smartwatch,Consumer,4,26624,0.2,-321,-0.0121,Credit Card
+AM-10464,2026-05-09,West,Ahmedabad,Electronics,Tablet,Home Office,3,15122,0.15,1109,0.0733,Net Banking
+AM-10465,2026-05-10,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,Corporate,4,25272,0.1,8137,0.322,COD
+AM-10466,2026-05-10,Central,Indore,Electronics,Bluetooth Speaker,Consumer,3,37052,0.15,-245,-0.0066,UPI
+AM-10467,2026-05-10,West,Mumbai,Electronics,Bluetooth Speaker,Consumer,1,8648,0.25,-899,-0.104,Credit Card
+AM-10468,2026-05-10,East,Patna,Fashion,Kurta Set,Consumer,3,6146,0.15,2022,0.329,UPI
+AM-10469,2026-05-10,Central,Raipur,Electronics,Headphones,Corporate,3,23282,0.15,1298,0.0558,UPI
+AM-10470,2026-05-10,West,Ahmedabad,Electronics,Smartwatch,Consumer,4,52938,0.15,2910,0.055,COD
+AM-10471,2026-05-10,Central,Indore,Home & Kitchen,Mixer Grinder,Consumer,1,5194,0.15,1165,0.2243,Wallet
+AM-10472,2026-05-10,East,Guwahati,Office Supplies,Notebook Pack,Corporate,5,19485,0.1,9808,0.5034,COD
+AM-10473,2026-05-10,North,Jaipur,Beauty,Trimmer,Consumer,2,2484,0.1,975,0.3925,Debit Card
+AM-10474,2026-05-10,North,Jaipur,Beauty,Perfume,Consumer,1,3230,0.15,1170,0.3622,COD
+AM-10475,2026-05-10,North,Lucknow,Fashion,Jacket,Consumer,1,2116,0.15,641,0.3029,Wallet
+AM-10476,2026-05-10,South,Bengaluru,Fashion,Jeans,Consumer,2,3485,0.15,803,0.2304,Net Banking
+AM-10477,2026-05-10,Central,Bhopal,Office Supplies,Notebook Pack,Consumer,1,1596,0.05,778,0.4875,Credit Card
+AM-10478,2026-05-10,West,Pune,Beauty,Skincare Kit,Consumer,2,3114,0.1,1331,0.4274,UPI
+AM-10479,2026-05-10,West,Mumbai,Beauty,Skincare Kit,Consumer,1,2844,0.1,1222,0.4297,UPI
+AM-10480,2026-05-10,South,Hyderabad,Home & Kitchen,Mixer Grinder,Corporate,4,20448,0.1,5898,0.2884,UPI
+AM-10481,2026-05-10,West,Ahmedabad,Electronics,Headphones,Consumer,1,7770,0.25,-989,-0.1273,UPI
+AM-10482,2026-05-11,West,Pune,Fashion,Kurta Set,Home Office,1,3897,0.1,1365,0.3503,Debit Card
+AM-10483,2026-05-11,West,Ahmedabad,Electronics,Tablet,Consumer,1,6248,0.15,262,0.0419,UPI
+AM-10484,2026-05-11,Central,Bhopal,Fashion,Sneakers,Consumer,1,2007,0.1,616,0.3069,UPI
+AM-10485,2026-05-11,West,Ahmedabad,Home & Kitchen,Mixer Grinder,Consumer,2,14127,0.15,3646,0.2581,UPI
+AM-10486,2026-05-11,South,Hyderabad,Fashion,Jacket,Home Office,1,3384,0.1,995,0.294,UPI
+AM-10487,2026-05-11,South,Hyderabad,Beauty,Perfume,Consumer,3,8607,0.05,3709,0.4309,Debit Card
+AM-10488,2026-05-11,Central,Nagpur,Fashion,Jacket,Home Office,1,4131,0.1,1301,0.3149,Wallet
+AM-10489,2026-05-11,West,Surat,Home & Kitchen,Bedsheet Set,Home Office,1,3256,0.15,881,0.2706,COD
+AM-10490,2026-05-11,West,Mumbai,Office Supplies,Organizer Set,Consumer,3,918,0.1,398,0.4336,UPI
+AM-10491,2026-05-11,South,Bengaluru,Beauty,Hair Dryer,Corporate,4,11324,0.05,4861,0.4293,Credit Card
+AM-10492,2026-05-11,South,Hyderabad,Electronics,Smartwatch,Corporate,3,42144,0.2,-1178,-0.028,UPI
+AM-10493,2026-05-11,South,Hyderabad,Fashion,Handbag,Consumer,2,3315,0.15,808,0.2437,UPI
+AM-10494,2026-05-11,East,Bhubaneswar,Electronics,Headphones,Home Office,2,28016,0.15,3095,0.1105,Debit Card
+AM-10495,2026-05-11,West,Surat,Electronics,Bluetooth Speaker,Consumer,2,20224,0.2,-1555,-0.0769,UPI
+AM-10496,2026-05-11,North,Chandigarh,Beauty,Skincare Kit,Consumer,5,17955,0.1,7546,0.4203,Net Banking
+AM-10497,2026-05-12,West,Mumbai,Office Supplies,Notebook Pack,Corporate,4,16682,0.05,8293,0.4971,UPI
+AM-10498,2026-05-12,South,Hyderabad,Beauty,Skincare Kit,Home Office,2,1062,0.1,474,0.4463,COD
+AM-10499,2026-05-12,North,Jaipur,Home & Kitchen,Air Fryer,Corporate,2,13122,0.1,3352,0.2554,Net Banking
+AM-10500,2026-05-12,North,Lucknow,Fashion,Kurta Set,Consumer,1,3304,0.2,790,0.2391,Wallet
+AM-10501,2026-05-12,West,Pune,Electronics,Tablet,Consumer,1,2792,0.2,-219,-0.0784,UPI
+AM-10502,2026-05-12,South,Bengaluru,Beauty,Skincare Kit,Corporate,1,1026,0.05,467,0.4552,UPI
+AM-10503,2026-05-12,East,Patna,Electronics,Bluetooth Speaker,Consumer,2,5152,0.2,39,0.0076,Credit Card
+AM-10504,2026-05-12,South,Hyderabad,Office Supplies,Ergonomic Chair,Corporate,3,9662,0.05,4628,0.479,UPI
+AM-10505,2026-05-12,East,Guwahati,Electronics,Power Bank,Corporate,5,23460,0.15,908,0.0387,UPI
+AM-10506,2026-05-12,North,Chandigarh,Electronics,Tablet,Consumer,2,21920,0.2,82,0.0037,Wallet
+AM-10507,2026-05-12,East,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,4,25126,0.15,4580,0.1823,Credit Card
+AM-10508,2026-05-12,North,Jaipur,Fashion,Sneakers,Consumer,1,2016,0.2,414,0.2054,UPI
+AM-10509,2026-05-12,North,Jaipur,Electronics,Bluetooth Speaker,Home Office,3,27428,0.25,-3802,-0.1386,UPI
+AM-10510,2026-05-12,North,Lucknow,Electronics,Power Bank,Consumer,1,2464,0.2,-150,-0.0609,Credit Card
+AM-10511,2026-05-12,West,Ahmedabad,Office Supplies,Organizer Set,Consumer,3,6128,0.05,2921,0.4767,Debit Card
+AM-10512,2026-05-12,Central,Bhopal,Fashion,Handbag,Consumer,2,4560,0.05,1440,0.3158,Debit Card
+AM-10513,2026-05-12,North,Chandigarh,Electronics,Bluetooth Speaker,Consumer,1,1939,0.3,-110,-0.0567,Credit Card
+AM-10514,2026-05-13,South,Hyderabad,Office Supplies,Desk Lamp,Corporate,1,765,0.1,361,0.4719,UPI
+AM-10515,2026-05-13,North,Chandigarh,Fashion,Handbag,Consumer,1,1360,0.2,262,0.1926,Credit Card
+AM-10516,2026-05-13,East,Guwahati,Fashion,Jacket,Consumer,4,6840,0.1,2114,0.3091,UPI
+AM-10517,2026-05-13,South,Hyderabad,Home & Kitchen,Bedsheet Set,Consumer,1,4167,0.1,1038,0.2491,Credit Card
+AM-10518,2026-05-13,South,Hyderabad,Electronics,Headphones,Corporate,2,18853,0.15,1151,0.0611,Credit Card
+AM-10519,2026-05-13,West,Surat,Electronics,Smartwatch,Consumer,2,14480,0.2,497,0.0343,Net Banking
+AM-10520,2026-05-13,East,Guwahati,Electronics,Smartwatch,Consumer,3,15192,0.2,-387,-0.0255,UPI
+AM-10521,2026-05-13,North,Jaipur,Electronics,Power Bank,Consumer,1,1869,0.3,-130,-0.0696,Net Banking
+AM-10522,2026-05-13,West,Pune,Fashion,Handbag,Consumer,1,2889,0.1,971,0.3361,UPI
+AM-10523,2026-05-13,West,Surat,Fashion,Jacket,Consumer,2,6786,0.1,2196,0.3236,Net Banking
+AM-10524,2026-05-13,North,Jaipur,Home & Kitchen,Mixer Grinder,Consumer,1,3800,0.2,687,0.1808,Net Banking
+AM-10525,2026-05-13,Central,Indore,Fashion,Jacket,Corporate,6,19872,0.1,6073,0.3056,Debit Card
+AM-10526,2026-05-13,South,Chennai,Beauty,Makeup Palette,Consumer,2,3708,0.1,1574,0.4245,Debit Card
+AM-10527,2026-05-13,West,Surat,Home & Kitchen,Cookware Set,Consumer,1,2574,0.1,620,0.2409,Net Banking
+AM-10528,2026-05-13,East,Kolkata,Beauty,Trimmer,Corporate,2,6372,0.1,2799,0.4393,UPI
+AM-10529,2026-05-14,East,Guwahati,Office Supplies,Desk Lamp,Consumer,3,10602,0.05,4888,0.461,UPI
+AM-10530,2026-05-14,East,Kolkata,Electronics,Power Bank,Corporate,5,23332,0.15,427,0.0183,Credit Card
+AM-10531,2026-05-14,North,Chandigarh,Electronics,Headphones,Consumer,3,32872,0.25,-1559,-0.0474,UPI
+AM-10532,2026-05-14,West,Pune,Electronics,Headphones,Home Office,4,11100,0.25,-1010,-0.091,Debit Card
+AM-10533,2026-05-14,North,Lucknow,Home & Kitchen,Cookware Set,Home Office,1,4608,0.2,540,0.1172,COD
+AM-10534,2026-05-14,East,Patna,Electronics,Smartwatch,Consumer,1,7096,0.2,-194,-0.0273,UPI
+AM-10535,2026-05-14,North,Chandigarh,Electronics,Bluetooth Speaker,Home Office,4,50160,0.25,-6315,-0.1259,UPI
+AM-10536,2026-05-14,South,Chennai,Home & Kitchen,Cookware Set,Corporate,3,13770,0.15,3128,0.2272,UPI
+AM-10537,2026-05-14,West,Mumbai,Home & Kitchen,Air Fryer,Consumer,1,5681,0.05,1873,0.3297,Net Banking
+AM-10538,2026-05-14,Central,Indore,Electronics,Tablet,Corporate,4,10846,0.15,103,0.0095,Net Banking
+AM-10539,2026-05-14,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,Corporate,3,6248,0.15,1294,0.2071,UPI
+AM-10540,2026-05-14,North,Jaipur,Electronics,Tablet,Corporate,5,36715,0.3,-7560,-0.2059,COD
+AM-10541,2026-05-15,Central,Indore,Home & Kitchen,Bedsheet Set,Consumer,3,22800,0.05,7682,0.3369,Credit Card
+AM-10542,2026-05-15,West,Pune,Fashion,Kurta Set,Home Office,1,1182,0.15,347,0.2936,Net Banking
+AM-10543,2026-05-15,North,Delhi,Fashion,Sneakers,Corporate,4,8288,0.2,1784,0.2153,UPI
+AM-10544,2026-05-15,South,Hyderabad,Electronics,Bluetooth Speaker,Corporate,5,43320,0.2,-946,-0.0218,COD
+AM-10545,2026-05-15,East,Bhubaneswar,Fashion,Sneakers,Consumer,2,6822,0.1,1818,0.2665,Credit Card
+AM-10546,2026-05-15,South,Hyderabad,Home & Kitchen,Mixer Grinder,Home Office,2,10846,0.15,2148,0.198,Debit Card
+AM-10547,2026-05-15,North,Chandigarh,Beauty,Makeup Palette,Consumer,4,4692,0.15,1640,0.3495,Credit Card
+AM-10548,2026-05-15,South,Hyderabad,Electronics,Power Bank,Consumer,1,11968,0.15,711,0.0594,UPI
+AM-10549,2026-05-15,South,Kochi,Office Supplies,Organizer Set,Consumer,2,2628,0.1,1303,0.4958,Debit Card
+AM-10550,2026-05-15,North,Lucknow,Fashion,Sneakers,Consumer,1,2520,0.2,471,0.1869,COD
+AM-10551,2026-05-15,Central,Nagpur,Electronics,Power Bank,Consumer,5,69400,0.2,-4676,-0.0674,Debit Card
+AM-10552,2026-05-15,North,Chandigarh,Electronics,Smartwatch,Consumer,1,7136,0.2,-374,-0.0524,COD
+AM-10553,2026-05-15,North,Lucknow,Beauty,Perfume,Home Office,1,2655,0.1,1117,0.4207,UPI
+AM-10554,2026-05-15,South,Bengaluru,Beauty,Perfume,Corporate,3,11372,0.05,4974,0.4374,Debit Card
+AM-10555,2026-05-16,South,Bengaluru,Office Supplies,Notebook Pack,Consumer,4,18108,0.1,8368,0.4621,Credit Card
+AM-10556,2026-05-16,West,Ahmedabad,Fashion,Sneakers,Consumer,1,2264,0.2,428,0.189,UPI
+AM-10557,2026-05-16,South,Chennai,Electronics,Tablet,Corporate,4,39584,0.2,284,0.0072,Credit Card
+AM-10558,2026-05-16,Central,Nagpur,Electronics,Headphones,Consumer,1,11198,0.25,-809,-0.0722,Credit Card
+AM-10559,2026-05-16,East,Kolkata,Office Supplies,Organizer Set,Home Office,4,13284,0.1,6398,0.4816,UPI
+AM-10560,2026-05-16,West,Mumbai,Electronics,Bluetooth Speaker,Home Office,1,7152,0.2,25,0.0035,UPI
+AM-10561,2026-05-16,North,Chandigarh,Electronics,Tablet,Consumer,1,8490,0.25,-572,-0.0674,Debit Card
+AM-10562,2026-05-16,West,Pune,Electronics,Smartwatch,Consumer,1,3832,0.25,-29,-0.0076,Credit Card
+AM-10563,2026-05-16,West,Pune,Office Supplies,Ergonomic Chair,Corporate,5,17910,0.1,7933,0.4429,COD
+AM-10564,2026-05-16,Central,Raipur,Beauty,Perfume,Consumer,1,3168,0.1,1466,0.4628,Net Banking
+AM-10565,2026-05-16,South,Hyderabad,Fashion,Handbag,Corporate,2,2772,0.1,915,0.3301,UPI
+AM-10566,2026-05-16,South,Kochi,Fashion,Handbag,Consumer,3,8667,0.1,2614,0.3016,Wallet
+AM-10567,2026-05-16,East,Guwahati,Electronics,Power Bank,Corporate,2,30447,0.15,150,0.0049,COD
+AM-10568,2026-05-16,West,Ahmedabad,Beauty,Hair Dryer,Consumer,2,6156,0.05,2608,0.4237,UPI
+AM-10569,2026-05-16,West,Mumbai,Office Supplies,Notebook Pack,Consumer,1,5364,0.1,2294,0.4277,UPI
+AM-10570,2026-05-16,North,Lucknow,Office Supplies,Desk Lamp,Consumer,1,442,0.15,196,0.4434,Credit Card
+AM-10571,2026-05-17,West,Surat,Home & Kitchen,Mixer Grinder,Consumer,1,8091,0.1,2275,0.2812,Net Banking
+AM-10572,2026-05-17,East,Patna,Fashion,Kurta Set,Consumer,1,722,0.15,200,0.277,COD
+AM-10573,2026-05-17,West,Ahmedabad,Fashion,Sneakers,Consumer,1,1242,0.1,348,0.2802,Net Banking
+AM-10574,2026-05-17,North,Chandigarh,Home & Kitchen,Bedsheet Set,Home Office,1,2464,0.2,438,0.1778,UPI
+AM-10575,2026-05-17,South,Bengaluru,Office Supplies,Organizer Set,Consumer,2,1660,0.0,884,0.5325,UPI
+AM-10576,2026-05-18,South,Kochi,Electronics,Headphones,Home Office,1,14170,0.15,113,0.008,UPI
+AM-10577,2026-05-18,North,Delhi,Beauty,Hair Dryer,Corporate,2,5364,0.1,2434,0.4538,Credit Card
+AM-10578,2026-05-18,West,Pune,Electronics,Smartwatch,Consumer,2,7035,0.25,-884,-0.1257,Credit Card
+AM-10579,2026-05-18,East,Bhubaneswar,Home & Kitchen,Bedsheet Set,Consumer,4,24732,0.1,6295,0.2545,Credit Card
+AM-10580,2026-05-18,Central,Bhopal,Fashion,Jacket,Corporate,5,16108,0.15,3859,0.2396,Credit Card
+AM-10581,2026-05-18,South,Kochi,Home & Kitchen,Cookware Set,Home Office,3,15120,0.1,3209,0.2122,Debit Card
+AM-10582,2026-05-18,North,Delhi,Beauty,Skincare Kit,Consumer,1,2880,0.1,1275,0.4427,Credit Card
+AM-10583,2026-05-18,South,Bengaluru,Electronics,Tablet,Consumer,1,7404,0.15,361,0.0488,UPI
+AM-10584,2026-05-18,South,Chennai,Electronics,Tablet,Consumer,3,16898,0.25,-842,-0.0498,UPI
+AM-10585,2026-05-18,South,Kochi,Fashion,Sneakers,Corporate,3,11880,0.1,3446,0.2901,UPI
+AM-10586,2026-05-18,Central,Indore,Fashion,Kurta Set,Home Office,3,5376,0.2,935,0.1739,UPI
+AM-10587,2026-05-19,North,Lucknow,Beauty,Skincare Kit,Home Office,2,4560,0.2,1629,0.3572,UPI
+AM-10588,2026-05-19,Central,Indore,Beauty,Trimmer,Consumer,1,1809,0.1,774,0.4279,Credit Card
+AM-10589,2026-05-19,West,Surat,Office Supplies,Printer Ink,Home Office,2,9594,0.1,4581,0.4775,Credit Card
+AM-10590,2026-05-19,West,Pune,Electronics,Power Bank,Corporate,2,12640,0.2,58,0.0046,Net Banking
+AM-10591,2026-05-19,Central,Nagpur,Electronics,Bluetooth Speaker,Home Office,2,7536,0.2,-601,-0.0798,UPI
+AM-10592,2026-05-19,East,Guwahati,Beauty,Perfume,Consumer,1,518,0.15,206,0.3977,Wallet
+AM-10593,2026-05-19,West,Surat,Fashion,Jacket,Home Office,2,7146,0.1,2409,0.3371,UPI
+AM-10594,2026-05-19,East,Guwahati,Fashion,Jacket,Home Office,1,876,0.15,220,0.2511,UPI
+AM-10595,2026-05-19,North,Jaipur,Electronics,Power Bank,Consumer,1,7575,0.25,-214,-0.0283,UPI
+AM-10596,2026-05-19,West,Ahmedabad,Fashion,Sneakers,Home Office,3,11883,0.15,2958,0.2489,Net Banking
+AM-10597,2026-05-19,North,Lucknow,Electronics,Bluetooth Speaker,Corporate,3,26616,0.2,2038,0.0766,Credit Card
+AM-10598,2026-05-19,South,Chennai,Office Supplies,Desk Lamp,Consumer,3,12825,0.1,6334,0.4939,Net Banking
+AM-10599,2026-05-19,North,Jaipur,Home & Kitchen,Vacuum Cleaner,Consumer,1,6560,0.2,1244,0.1896,Wallet
+AM-10600,2026-05-19,West,Pune,Office Supplies,Printer Ink,Consumer,1,3240,0.05,1584,0.4889,UPI
+AM-10601,2026-05-19,North,Chandigarh,Office Supplies,Notebook Pack,Consumer,1,3757,0.15,1708,0.4546,UPI
+AM-10602,2026-05-19,Central,Nagpur,Fashion,Jeans,Corporate,4,12920,0.05,4124,0.3192,UPI
+AM-10603,2026-05-19,East,Guwahati,Electronics,Tablet,Consumer,2,30124,0.15,1081,0.0359,Debit Card
+AM-10604,2026-05-19,North,Chandigarh,Home & Kitchen,Cookware Set,Corporate,3,11985,0.15,2992,0.2496,Credit Card
+AM-10605,2026-05-19,North,Jaipur,Electronics,Headphones,Consumer,2,19950,0.3,-2839,-0.1423,UPI
+AM-10606,2026-05-19,East,Kolkata,Electronics,Power Bank,Corporate,2,22528,0.2,-313,-0.0139,Credit Card
+AM-10607,2026-05-19,East,Kolkata,Beauty,Trimmer,Consumer,4,11268,0.1,4992,0.443,Debit Card
+AM-10608,2026-05-20,West,Pune,Office Supplies,Desk Lamp,Consumer,2,1026,0.1,474,0.462,Net Banking
+AM-10609,2026-05-20,North,Delhi,Home & Kitchen,Mixer Grinder,Corporate,4,8760,0.25,1287,0.1469,Debit Card
+AM-10610,2026-05-20,West,Ahmedabad,Home & Kitchen,Bedsheet Set,Consumer,2,10170,0.1,3213,0.3159,Wallet
+AM-10611,2026-05-20,West,Ahmedabad,Office Supplies,Notebook Pack,Consumer,3,7324,0.05,3490,0.4765,UPI
+AM-10612,2026-05-20,North,Jaipur,Home & Kitchen,Cookware Set,Consumer,4,6120,0.25,309,0.0505,Net Banking
+AM-10613,2026-05-20,East,Kolkata,Home & Kitchen,Cookware Set,Corporate,3,3876,0.05,1291,0.3331,Credit Card
+AM-10614,2026-05-20,West,Ahmedabad,Home & Kitchen,Bedsheet Set,Corporate,3,12882,0.05,3341,0.2594,Wallet
+AM-10615,2026-05-20,South,Hyderabad,Office Supplies,Ergonomic Chair,Corporate,4,3312,0.1,1447,0.4369,UPI
+AM-10616,2026-05-20,North,Lucknow,Fashion,Sneakers,Home Office,2,6120,0.15,1814,0.2964,UPI
+AM-10617,2026-05-21,Central,Raipur,Electronics,Bluetooth Speaker,Consumer,1,12128,0.25,-1436,-0.1184,COD
+AM-10618,2026-05-21,South,Hyderabad,Beauty,Makeup Palette,Consumer,1,2974,0.05,1368,0.46,UPI
+AM-10619,2026-05-21,West,Ahmedabad,Home & Kitchen,Air Fryer,Consumer,2,2278,0.15,435,0.191,UPI
+AM-10620,2026-05-21,West,Mumbai,Beauty,Makeup Palette,Consumer,1,1170,0.1,441,0.3769,Net Banking
+AM-10621,2026-05-21,Central,Bhopal,Electronics,Smartwatch,Consumer,1,4912,0.25,-434,-0.0884,Wallet
+AM-10622,2026-05-21,South,Hyderabad,Electronics,Headphones,Home Office,1,7215,0.25,-696,-0.0965,Net Banking
+AM-10623,2026-05-21,North,Jaipur,Home & Kitchen,Air Fryer,Consumer,2,5145,0.25,270,0.0525,UPI
+AM-10624,2026-05-21,East,Patna,Fashion,Jeans,Consumer,3,12933,0.1,4496,0.3476,UPI
+AM-10625,2026-05-21,Central,Raipur,Home & Kitchen,Cookware Set,Corporate,5,25335,0.1,7102,0.2803,Credit Card
+AM-10626,2026-05-21,Central,Indore,Office Supplies,Printer Ink,Home Office,2,2268,0.1,1091,0.481,UPI
+AM-10627,2026-05-21,South,Hyderabad,Fashion,Handbag,Consumer,2,6138,0.1,2189,0.3566,UPI
+AM-10628,2026-05-22,North,Lucknow,Fashion,Sneakers,Consumer,1,3440,0.2,589,0.1712,Wallet
+AM-10629,2026-05-22,West,Surat,Home & Kitchen,Cookware Set,Home Office,1,6903,0.1,2083,0.3018,UPI
+AM-10630,2026-05-22,East,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,3,3915,0.1,1018,0.26,Credit Card
+AM-10631,2026-05-22,East,Guwahati,Beauty,Skincare Kit,Consumer,2,6372,0.1,2798,0.4391,UPI
+AM-10632,2026-05-22,East,Kolkata,Fashion,Handbag,Corporate,3,11064,0.2,2913,0.2633,UPI
+AM-10633,2026-05-22,South,Hyderabad,Office Supplies,Notebook Pack,Consumer,1,1020,0.0,540,0.5294,UPI
+AM-10634,2026-05-22,South,Chennai,Fashion,Sneakers,Consumer,1,2295,0.1,683,0.2976,Credit Card
+AM-10635,2026-05-22,North,Delhi,Home & Kitchen,Air Fryer,Home Office,1,7012,0.15,1937,0.2762,UPI
+AM-10636,2026-05-22,South,Chennai,Fashion,Jacket,Consumer,1,1692,0.1,614,0.3629,Debit Card
+AM-10637,2026-05-22,West,Ahmedabad,Fashion,Jeans,Home Office,2,1692,0.1,483,0.2855,Net Banking
+AM-10638,2026-05-22,East,Kolkata,Beauty,Perfume,Consumer,1,1746,0.1,692,0.3963,COD
+AM-10639,2026-05-22,East,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,5,16788,0.15,4523,0.2694,UPI
+AM-10640,2026-05-23,South,Hyderabad,Beauty,Perfume,Consumer,5,16110,0.1,6939,0.4307,Net Banking
+AM-10641,2026-05-23,South,Chennai,Fashion,Jeans,Home Office,2,5526,0.1,1830,0.3312,UPI
+AM-10642,2026-05-23,South,Hyderabad,Home & Kitchen,Vacuum Cleaner,Consumer,1,5500,0.15,932,0.1695,Credit Card
+AM-10643,2026-05-23,South,Hyderabad,Fashion,Sneakers,Corporate,1,2691,0.1,704,0.2616,Net Banking
+AM-10644,2026-05-23,Central,Nagpur,Home & Kitchen,Mixer Grinder,Consumer,2,4332,0.05,1133,0.2615,COD
+AM-10645,2026-05-23,South,Kochi,Office Supplies,Organizer Set,Corporate,6,29646,0.1,14582,0.4919,UPI
+AM-10646,2026-05-23,North,Jaipur,Home & Kitchen,Cookware Set,Consumer,1,2125,0.15,543,0.2555,Credit Card
+AM-10647,2026-05-23,West,Mumbai,Fashion,Jacket,Consumer,2,1666,0.15,357,0.2143,UPI
+AM-10648,2026-05-23,West,Surat,Electronics,Power Bank,Corporate,3,27788,0.25,-3293,-0.1185,COD
+AM-10649,2026-05-23,South,Hyderabad,Electronics,Smartwatch,Corporate,4,15198,0.15,1202,0.0791,Net Banking
+AM-10650,2026-05-23,North,Lucknow,Electronics,Tablet,Corporate,4,40380,0.25,-5016,-0.1242,Debit Card
+AM-10651,2026-05-23,West,Mumbai,Electronics,Headphones,Home Office,3,20880,0.25,-792,-0.0379,Debit Card
+AM-10652,2026-05-23,East,Guwahati,Electronics,Power Bank,Consumer,3,24200,0.15,3150,0.1302,Net Banking
+AM-10653,2026-05-23,West,Surat,Electronics,Headphones,Home Office,2,5025,0.25,-76,-0.0151,COD
+AM-10654,2026-05-23,East,Patna,Beauty,Perfume,Consumer,4,9462,0.05,4504,0.476,UPI
+AM-10655,2026-05-23,North,Lucknow,Fashion,Handbag,Consumer,1,1184,0.2,208,0.1757,UPI
+AM-10656,2026-05-23,North,Delhi,Electronics,Smartwatch,Consumer,2,15456,0.3,-1266,-0.0819,UPI
+AM-10657,2026-05-23,East,Bhubaneswar,Electronics,Bluetooth Speaker,Consumer,5,41760,0.2,2026,0.0485,COD
+AM-10658,2026-05-24,East,Patna,Fashion,Sneakers,Corporate,5,7692,0.15,2290,0.2977,Credit Card
+AM-10659,2026-05-24,West,Surat,Electronics,Smartwatch,Consumer,1,10336,0.2,535,0.0518,UPI
+AM-10660,2026-05-24,East,Bhubaneswar,Electronics,Tablet,Corporate,3,40776,0.2,-3018,-0.074,COD
+AM-10661,2026-05-24,Central,Bhopal,Office Supplies,Organizer Set,Corporate,1,1584,0.1,757,0.4779,Debit Card
+AM-10662,2026-05-24,West,Mumbai,Electronics,Tablet,Consumer,3,40826,0.15,3422,0.0838,UPI
+AM-10663,2026-05-24,North,Lucknow,Beauty,Perfume,Consumer,1,1887,0.15,736,0.39,COD
+AM-10664,2026-05-24,South,Bengaluru,Electronics,Headphones,Home Office,1,12688,0.2,-655,-0.0516,UPI
+AM-10665,2026-05-24,South,Chennai,Electronics,Tablet,Corporate,7,38378,0.25,-4919,-0.1282,UPI
+AM-10666,2026-05-24,West,Ahmedabad,Home & Kitchen,Cookware Set,Home Office,1,8094,0.05,2522,0.3116,Debit Card
+AM-10667,2026-05-24,North,Lucknow,Electronics,Headphones,Consumer,2,17925,0.25,-2676,-0.1493,COD
+AM-10668,2026-05-24,North,Jaipur,Home & Kitchen,Air Fryer,Consumer,5,28475,0.15,7881,0.2768,Credit Card
+AM-10669,2026-05-24,West,Pune,Beauty,Hair Dryer,Consumer,2,4794,0.15,1653,0.3448,UPI
+AM-10670,2026-05-24,Central,Nagpur,Home & Kitchen,Air Fryer,Consumer,5,29835,0.1,8042,0.2695,Wallet
+AM-10671,2026-05-24,East,Bhubaneswar,Home & Kitchen,Bedsheet Set,Consumer,3,15376,0.15,2538,0.1651,COD
+AM-10672,2026-05-24,North,Delhi,Home & Kitchen,Cookware Set,Consumer,2,9962,0.15,2795,0.2806,Net Banking
+AM-10673,2026-05-24,East,Bhubaneswar,Fashion,Jeans,Consumer,2,8982,0.1,2549,0.2838,UPI
+AM-10674,2026-05-24,South,Chennai,Fashion,Handbag,Consumer,1,3392,0.15,822,0.2423,UPI
+AM-10675,2026-05-24,Central,Bhopal,Fashion,Kurta Set,Home Office,2,3638,0.15,1046,0.2875,UPI
+AM-10676,2026-05-24,South,Kochi,Electronics,Smartwatch,Home Office,4,23104,0.2,-1589,-0.0688,UPI
+AM-10677,2026-05-25,Central,Nagpur,Fashion,Jeans,Corporate,1,3096,0.1,1114,0.3598,UPI
+AM-10678,2026-05-25,West,Pune,Electronics,Bluetooth Speaker,Consumer,1,3664,0.2,-279,-0.0761,Debit Card
+AM-10679,2026-05-25,South,Hyderabad,Beauty,Perfume,Consumer,1,1311,0.05,622,0.4744,Debit Card
+AM-10680,2026-05-25,North,Chandigarh,Office Supplies,Desk Lamp,Consumer,4,19722,0.05,9197,0.4663,Debit Card
+AM-10681,2026-05-25,Central,Bhopal,Home & Kitchen,Cookware Set,Consumer,4,15504,0.05,4730,0.3051,Debit Card
+AM-10682,2026-05-25,East,Patna,Beauty,Trimmer,Corporate,1,2632,0.05,1111,0.4221,Credit Card
+AM-10683,2026-05-25,West,Pune,Fashion,Handbag,Corporate,2,8748,0.1,2769,0.3165,Credit Card
+AM-10684,2026-05-25,West,Ahmedabad,Office Supplies,Desk Lamp,Consumer,1,1890,0.05,921,0.4873,UPI
+AM-10685,2026-05-25,Central,Bhopal,Electronics,Power Bank,Corporate,2,22215,0.25,-2695,-0.1213,UPI
+AM-10686,2026-05-25,South,Kochi,Home & Kitchen,Air Fryer,Consumer,1,3186,0.1,934,0.2932,UPI
+AM-10687,2026-05-25,West,Ahmedabad,Electronics,Power Bank,Consumer,1,2602,0.25,3,0.0012,Debit Card
+AM-10688,2026-05-25,West,Surat,Fashion,Sneakers,Consumer,2,5454,0.1,1736,0.3183,Net Banking
+AM-10689,2026-05-25,North,Lucknow,Fashion,Jeans,Corporate,4,16728,0.15,3764,0.225,Net Banking
+AM-10690,2026-05-25,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,Consumer,1,6783,0.15,1642,0.2421,Debit Card
+AM-10691,2026-05-25,South,Kochi,Electronics,Smartwatch,Consumer,1,9488,0.25,-185,-0.0195,Debit Card
+AM-10692,2026-05-26,South,Kochi,Home & Kitchen,Bedsheet Set,Consumer,2,11628,0.1,2856,0.2456,COD
+AM-10693,2026-05-26,West,Pune,Home & Kitchen,Mixer Grinder,Home Office,1,5168,0.15,1213,0.2347,UPI
+AM-10694,2026-05-26,South,Kochi,Beauty,Perfume,Consumer,3,5157,0.1,2351,0.4559,Debit Card
+AM-10695,2026-05-26,North,Chandigarh,Fashion,Jacket,Consumer,1,1334,0.15,427,0.3201,UPI
+AM-10696,2026-05-26,East,Patna,Beauty,Perfume,Consumer,3,7296,0.05,3008,0.4123,Debit Card
+AM-10697,2026-05-26,South,Chennai,Office Supplies,Organizer Set,Home Office,1,3876,0.05,2008,0.5181,Debit Card
+AM-10698,2026-05-26,North,Chandigarh,Electronics,Power Bank,Consumer,1,6125,0.3,-439,-0.0717,UPI
+AM-10699,2026-05-26,South,Chennai,Home & Kitchen,Mixer Grinder,Consumer,4,5882,0.15,1271,0.2161,Credit Card
+AM-10700,2026-05-26,Central,Raipur,Home & Kitchen,Cookware Set,Consumer,1,4921,0.05,1707,0.3469,UPI
+AM-10701,2026-05-27,North,Chandigarh,Fashion,Kurta Set,Consumer,2,6868,0.15,1855,0.2701,UPI
+AM-10702,2026-05-27,Central,Indore,Electronics,Power Bank,Consumer,1,9984,0.2,-263,-0.0263,Debit Card
+AM-10703,2026-05-27,South,Bengaluru,Home & Kitchen,Cookware Set,Home Office,1,2799,0.1,663,0.2369,UPI
+AM-10704,2026-05-28,Central,Raipur,Home & Kitchen,Vacuum Cleaner,Home Office,2,16587,0.05,5724,0.3451,UPI
+AM-10705,2026-05-28,West,Surat,Beauty,Makeup Palette,Consumer,1,1206,0.05,508,0.4212,UPI
+AM-10706,2026-05-28,West,Ahmedabad,Fashion,Sneakers,Consumer,1,3807,0.1,1212,0.3184,COD
+AM-10707,2026-05-28,North,Delhi,Electronics,Bluetooth Speaker,Consumer,1,2024,0.2,151,0.0746,Credit Card
+AM-10708,2026-05-28,East,Kolkata,Electronics,Smartwatch,Corporate,1,12478,0.15,594,0.0476,UPI
+AM-10709,2026-05-28,Central,Raipur,Home & Kitchen,Cookware Set,Home Office,2,4896,0.15,1133,0.2314,Credit Card
+AM-10710,2026-05-28,North,Jaipur,Electronics,Smartwatch,Consumer,2,4965,0.25,-84,-0.0169,UPI
+AM-10711,2026-05-28,North,Jaipur,Electronics,Bluetooth Speaker,Home Office,3,6720,0.2,-31,-0.0046,UPI
+AM-10712,2026-05-28,North,Jaipur,Electronics,Bluetooth Speaker,Consumer,1,12880,0.2,631,0.049,Wallet
+AM-10713,2026-05-28,West,Mumbai,Fashion,Jacket,Consumer,4,13974,0.15,4510,0.3227,Debit Card
+AM-10714,2026-05-28,West,Ahmedabad,Electronics,Bluetooth Speaker,Consumer,3,20700,0.25,-3120,-0.1507,Debit Card
+AM-10715,2026-05-28,South,Bengaluru,Fashion,Jacket,Consumer,1,3843,0.1,1061,0.2761,Credit Card
+AM-10716,2026-05-28,South,Hyderabad,Office Supplies,Desk Lamp,Home Office,1,2340,0.0,1248,0.5333,Credit Card
+AM-10717,2026-05-28,West,Surat,Electronics,Bluetooth Speaker,Consumer,2,28496,0.2,-1569,-0.0551,UPI
+AM-10718,2026-05-28,South,Hyderabad,Electronics,Tablet,Corporate,3,10368,0.2,485,0.0468,Debit Card
+AM-10719,2026-05-28,North,Delhi,Electronics,Smartwatch,Corporate,3,38002,0.25,686,0.0181,UPI
+AM-10720,2026-05-28,South,Bengaluru,Beauty,Trimmer,Consumer,1,3573,0.1,1351,0.3781,Net Banking
+AM-10721,2026-05-29,West,Mumbai,Home & Kitchen,Bedsheet Set,Corporate,5,27498,0.15,4885,0.1776,Wallet
+AM-10722,2026-05-29,North,Lucknow,Electronics,Power Bank,Corporate,3,42360,0.2,-2272,-0.0536,UPI
+AM-10723,2026-05-29,North,Jaipur,Electronics,Tablet,Corporate,4,57248,0.2,-3128,-0.0546,UPI
+AM-10724,2026-05-29,West,Mumbai,Fashion,Jacket,Home Office,2,3618,0.1,1061,0.2933,Net Banking
+AM-10725,2026-05-29,North,Chandigarh,Fashion,Kurta Set,Corporate,3,2115,0.25,269,0.1272,Net Banking
+AM-10726,2026-05-29,West,Mumbai,Office Supplies,Notebook Pack,Consumer,2,4554,0.1,2116,0.4646,UPI
+AM-10727,2026-05-29,North,Jaipur,Fashion,Jacket,Consumer,3,2832,0.2,718,0.2535,Debit Card
+AM-10728,2026-05-29,North,Lucknow,Home & Kitchen,Bedsheet Set,Consumer,1,2544,0.2,306,0.1203,Net Banking
+AM-10729,2026-05-29,West,Ahmedabad,Electronics,Bluetooth Speaker,Corporate,3,18120,0.2,106,0.0058,Debit Card
+AM-10730,2026-05-29,East,Guwahati,Office Supplies,Printer Ink,Consumer,2,5634,0.1,2639,0.4684,UPI
+AM-10731,2026-05-29,South,Chennai,Electronics,Bluetooth Speaker,Corporate,5,66360,0.2,2979,0.0449,Debit Card
+AM-10732,2026-05-29,North,Lucknow,Electronics,Smartwatch,Corporate,4,10624,0.2,501,0.0472,Credit Card
+AM-10733,2026-05-29,West,Mumbai,Fashion,Handbag,Home Office,2,7480,0.15,2445,0.3269,Credit Card
+AM-10734,2026-05-29,North,Jaipur,Electronics,Headphones,Consumer,5,31535,0.3,-7304,-0.2316,Credit Card
+AM-10735,2026-05-29,East,Patna,Home & Kitchen,Vacuum Cleaner,Home Office,1,6075,0.1,1875,0.3086,UPI
+AM-10736,2026-05-29,West,Surat,Electronics,Smartwatch,Consumer,3,24600,0.2,-1147,-0.0466,Credit Card
+AM-10737,2026-05-29,North,Jaipur,Fashion,Sneakers,Consumer,3,5976,0.2,1429,0.2391,COD
+AM-10738,2026-05-29,South,Chennai,Electronics,Headphones,Consumer,1,4326,0.15,258,0.0596,UPI
+AM-10739,2026-05-30,West,Ahmedabad,Home & Kitchen,Vacuum Cleaner,Corporate,3,12339,0.1,2690,0.218,Wallet
+AM-10740,2026-05-30,South,Hyderabad,Electronics,Power Bank,Consumer,1,6324,0.15,786,0.1243,COD
+AM-10741,2026-05-30,West,Surat,Electronics,Headphones,Consumer,1,10110,0.25,-393,-0.0389,COD
+AM-10742,2026-05-30,East,Guwahati,Office Supplies,Organizer Set,Consumer,2,4807,0.05,2378,0.4947,Net Banking
+AM-10743,2026-05-30,Central,Bhopal,Electronics,Smartwatch,Corporate,2,11952,0.2,246,0.0206,Debit Card
+AM-10744,2026-05-30,South,Bengaluru,Home & Kitchen,Air Fryer,Home Office,2,8946,0.1,2776,0.3103,Credit Card
+AM-10745,2026-05-30,West,Pune,Fashion,Handbag,Corporate,2,6804,0.1,2356,0.3463,UPI
+AM-10746,2026-05-30,North,Jaipur,Office Supplies,Organizer Set,Consumer,1,495,0.1,248,0.501,Debit Card
+AM-10747,2026-05-30,West,Mumbai,Fashion,Handbag,Consumer,1,1935,0.1,663,0.3426,Net Banking
+AM-10748,2026-05-30,East,Bhubaneswar,Electronics,Smartwatch,Consumer,1,11730,0.25,-862,-0.0735,UPI
+AM-10749,2026-05-30,East,Bhubaneswar,Electronics,Tablet,Consumer,3,40520,0.15,4116,0.1016,Credit Card
+AM-10750,2026-05-30,Central,Raipur,Fashion,Jacket,Consumer,5,20295,0.1,6872,0.3386,Net Banking
+AM-10751,2026-05-30,South,Kochi,Fashion,Jeans,Corporate,3,12418,0.15,2873,0.2314,Wallet
+AM-10752,2026-05-30,South,Bengaluru,Home & Kitchen,Bedsheet Set,Consumer,1,7830,0.1,2469,0.3153,Net Banking
+AM-10753,2026-05-30,West,Surat,Home & Kitchen,Air Fryer,Corporate,5,11070,0.1,2324,0.2099,Credit Card
+AM-10754,2026-05-30,South,Hyderabad,Electronics,Tablet,Consumer,1,7488,0.15,74,0.0099,UPI
+AM-10755,2026-05-30,Central,Raipur,Beauty,Skincare Kit,Corporate,2,2546,0.05,1170,0.4595,Net Banking
+AM-10756,2026-05-30,West,Ahmedabad,Fashion,Jacket,Consumer,2,5940,0.1,1746,0.2939,Wallet
+AM-10757,2026-05-30,North,Chandigarh,Electronics,Bluetooth Speaker,Corporate,4,13230,0.25,163,0.0123,Net Banking
+AM-10758,2026-05-30,West,Pune,Electronics,Power Bank,Corporate,1,5738,0.15,108,0.0188,Debit Card
+AM-10759,2026-05-30,North,Chandigarh,Office Supplies,Desk Lamp,Home Office,2,5763,0.15,2482,0.4307,UPI
+AM-10760,2026-05-30,West,Pune,Home & Kitchen,Vacuum Cleaner,Home Office,2,10608,0.15,2258,0.2129,UPI
+AM-10761,2026-05-30,South,Kochi,Beauty,Perfume,Consumer,4,5474,0.15,1935,0.3535,UPI
+AM-10762,2026-05-30,Central,Nagpur,Office Supplies,Organizer Set,Corporate,4,4752,0.1,2103,0.4426,Credit Card
+AM-10763,2026-05-30,South,Kochi,Fashion,Kurta Set,Consumer,4,9078,0.15,2577,0.2839,Credit Card
+AM-10764,2026-05-31,West,Ahmedabad,Home & Kitchen,Cookware Set,Consumer,1,4888,0.15,820,0.1678,Credit Card
+AM-10765,2026-05-31,South,Bengaluru,Home & Kitchen,Air Fryer,Corporate,2,2790,0.1,633,0.2269,Credit Card
+AM-10766,2026-05-31,North,Lucknow,Home & Kitchen,Vacuum Cleaner,Corporate,2,8730,0.1,2764,0.3166,Net Banking
+AM-10767,2026-05-31,South,Kochi,Home & Kitchen,Cookware Set,Home Office,2,4626,0.1,1106,0.2391,Net Banking
+AM-10768,2026-05-31,South,Chennai,Office Supplies,Ergonomic Chair,Consumer,5,24615,0.1,12386,0.5032,Credit Card
+AM-10769,2026-05-31,North,Delhi,Electronics,Tablet,Consumer,3,21168,0.2,1097,0.0518,Credit Card
+AM-10770,2026-05-31,North,Chandigarh,Fashion,Sneakers,Consumer,1,3376,0.2,560,0.1659,Net Banking
+AM-10771,2026-05-31,West,Mumbai,Electronics,Bluetooth Speaker,Consumer,2,20928,0.2,848,0.0405,UPI
+AM-10772,2026-05-31,Central,Raipur,Home & Kitchen,Air Fryer,Home Office,2,2592,0.1,805,0.3106,Net Banking
+AM-10773,2026-05-31,West,Ahmedabad,Beauty,Makeup Palette,Consumer,2,6270,0.05,2717,0.4333,UPI
+AM-10774,2026-05-31,East,Patna,Beauty,Trimmer,Corporate,2,3708,0.1,1614,0.4353,Credit Card
+AM-10775,2026-05-31,South,Kochi,Electronics,Tablet,Consumer,4,38976,0.2,-2969,-0.0762,UPI
+AM-10776,2026-05-31,East,Kolkata,Electronics,Tablet,Consumer,1,8313,0.15,-107,-0.0129,Credit Card
+AM-10777,2026-05-31,West,Ahmedabad,Office Supplies,Ergonomic Chair,Corporate,4,4752,0.1,2132,0.4487,UPI
+AM-10778,2026-05-31,Central,Raipur,Office Supplies,Desk Lamp,Consumer,5,15210,0.1,6640,0.4366,UPI
+AM-10779,2026-05-31,East,Bhubaneswar,Fashion,Jacket,Consumer,2,7650,0.15,1740,0.2275,COD
+AM-10780,2026-06-01,Central,Raipur,Electronics,Smartwatch,Corporate,1,6392,0.2,-192,-0.03,UPI
+AM-10781,2026-06-01,South,Kochi,Beauty,Hair Dryer,Consumer,1,2033,0.05,993,0.4884,Wallet
+AM-10782,2026-06-01,North,Chandigarh,Electronics,Tablet,Consumer,2,15120,0.25,-1383,-0.0915,Net Banking
+AM-10783,2026-06-01,South,Chennai,Office Supplies,Notebook Pack,Consumer,2,10906,0.05,5423,0.4972,Debit Card
+AM-10784,2026-06-01,West,Ahmedabad,Home & Kitchen,Bedsheet Set,Consumer,2,8748,0.1,2019,0.2308,UPI
+AM-10785,2026-06-01,North,Jaipur,Office Supplies,Organizer Set,Consumer,3,15447,0.05,7328,0.4744,Credit Card
+AM-10786,2026-06-01,South,Bengaluru,Home & Kitchen,Bedsheet Set,Corporate,1,5440,0.15,1471,0.2704,UPI
+AM-10787,2026-06-01,West,Surat,Electronics,Bluetooth Speaker,Home Office,1,13413,0.15,13,0.001,UPI
+AM-10788,2026-06-01,West,Surat,Home & Kitchen,Vacuum Cleaner,Corporate,2,5966,0.05,1615,0.2707,Credit Card
+AM-10789,2026-06-01,East,Bhubaneswar,Electronics,Bluetooth Speaker,Consumer,1,6592,0.25,-632,-0.0959,UPI
+AM-10790,2026-06-02,North,Chandigarh,Electronics,Smartwatch,Home Office,2,18320,0.2,-618,-0.0337,UPI
+AM-10791,2026-06-02,South,Hyderabad,Electronics,Power Bank,Consumer,4,51690,0.25,-6402,-0.1239,Debit Card
+AM-10792,2026-06-02,South,Hyderabad,Fashion,Jeans,Consumer,2,2128,0.2,483,0.227,COD
+AM-10793,2026-06-02,West,Surat,Fashion,Jacket,Consumer,2,5024,0.2,1327,0.2641,UPI
+AM-10794,2026-06-02,North,Jaipur,Home & Kitchen,Bedsheet Set,Home Office,1,3086,0.15,540,0.175,UPI
+AM-10795,2026-06-02,West,Ahmedabad,Home & Kitchen,Air Fryer,Corporate,2,12937,0.15,2245,0.1735,Debit Card
+AM-10796,2026-06-02,North,Chandigarh,Electronics,Tablet,Corporate,2,24906,0.3,-3877,-0.1557,UPI
+AM-10797,2026-06-02,Central,Raipur,Electronics,Tablet,Home Office,2,13583,0.15,881,0.0649,UPI
+AM-10798,2026-06-02,East,Kolkata,Beauty,Perfume,Home Office,2,4356,0.1,1971,0.4525,UPI
+AM-10799,2026-06-02,West,Pune,Electronics,Power Bank,Consumer,3,14102,0.15,215,0.0152,UPI
+AM-10800,2026-06-02,East,Bhubaneswar,Fashion,Handbag,Home Office,2,4063,0.15,1263,0.3109,Net Banking
+AM-10801,2026-06-02,South,Chennai,Electronics,Bluetooth Speaker,Consumer,1,13166,0.15,-48,-0.0036,UPI
+AM-10802,2026-06-03,South,Kochi,Electronics,Bluetooth Speaker,Home Office,1,8585,0.15,106,0.0123,UPI
+AM-10803,2026-06-03,North,Jaipur,Home & Kitchen,Cookware Set,Consumer,1,7488,0.15,1596,0.2131,COD
+AM-10804,2026-06-03,North,Delhi,Home & Kitchen,Air Fryer,Home Office,3,19800,0.2,3698,0.1868,UPI
+AM-10805,2026-06-03,South,Chennai,Electronics,Smartwatch,Consumer,4,30210,0.25,-3437,-0.1138,Debit Card
+AM-10806,2026-06-03,North,Jaipur,Home & Kitchen,Air Fryer,Corporate,4,22134,0.15,4160,0.1879,UPI
+AM-10807,2026-06-03,West,Ahmedabad,Beauty,Perfume,Consumer,2,7562,0.05,3115,0.4119,COD
+AM-10808,2026-06-03,South,Bengaluru,Beauty,Makeup Palette,Consumer,4,6460,0.05,2724,0.4217,Debit Card
+AM-10809,2026-06-03,Central,Raipur,Fashion,Jeans,Corporate,3,12418,0.15,4023,0.324,COD
+AM-10810,2026-06-03,West,Pune,Home & Kitchen,Bedsheet Set,Consumer,3,15561,0.05,5567,0.3578,Credit Card
+AM-10811,2026-06-03,North,Jaipur,Home & Kitchen,Air Fryer,Consumer,1,1615,0.15,422,0.2613,Net Banking
+AM-10812,2026-06-03,East,Bhubaneswar,Office Supplies,Desk Lamp,Consumer,2,9082,0.05,4339,0.4778,UPI
+AM-10813,2026-06-03,South,Kochi,Electronics,Tablet,Home Office,2,9027,0.15,1062,0.1176,COD
+AM-10814,2026-06-03,Central,Bhopal,Electronics,Power Bank,Consumer,2,28288,0.2,-1162,-0.0411,COD
+AM-10815,2026-06-03,East,Kolkata,Electronics,Power Bank,Home Office,2,16528,0.2,764,0.0462,UPI
+AM-10816,2026-06-04,South,Kochi,Fashion,Jacket,Consumer,4,10132,0.15,2458,0.2426,UPI
+AM-10817,2026-06-04,North,Delhi,Office Supplies,Desk Lamp,Consumer,2,7956,0.15,3745,0.4707,COD
+AM-10818,2026-06-04,North,Chandigarh,Electronics,Bluetooth Speaker,Consumer,1,1757,0.3,-96,-0.0546,UPI
+AM-10819,2026-06-04,South,Bengaluru,Electronics,Smartwatch,Corporate,5,11880,0.2,-109,-0.0092,Debit Card
+AM-10820,2026-06-04,North,Delhi,Home & Kitchen,Mixer Grinder,Consumer,3,21267,0.15,5777,0.2716,UPI
+AM-10821,2026-06-04,North,Lucknow,Beauty,Makeup Palette,Consumer,4,9280,0.2,3499,0.377,Debit Card
+AM-10822,2026-06-04,North,Delhi,Electronics,Bluetooth Speaker,Consumer,1,6160,0.2,-84,-0.0136,COD
+AM-10823,2026-06-04,North,Jaipur,Electronics,Bluetooth Speaker,Consumer,3,15278,0.25,-871,-0.057,Credit Card
+AM-10824,2026-06-04,North,Lucknow,Electronics,Headphones,Home Office,2,4676,0.3,-1057,-0.226,COD
+AM-10825,2026-06-04,South,Hyderabad,Fashion,Kurta Set,Corporate,3,7506,0.1,2618,0.3488,Net Banking
+AM-10826,2026-06-04,South,Hyderabad,Electronics,Smartwatch,Consumer,2,22899,0.15,2535,0.1107,COD
+AM-10827,2026-06-04,Central,Bhopal,Beauty,Skincare Kit,Corporate,5,10980,0.1,4690,0.4271,UPI
+AM-10828,2026-06-04,South,Chennai,Home & Kitchen,Bedsheet Set,Corporate,4,29512,0.15,5309,0.1799,UPI
+AM-10829,2026-06-05,West,Ahmedabad,Electronics,Headphones,Consumer,2,7200,0.25,-113,-0.0157,UPI
+AM-10830,2026-06-05,Central,Indore,Office Supplies,Organizer Set,Consumer,2,5434,0.05,2895,0.5328,UPI
+AM-10831,2026-06-05,South,Kochi,Fashion,Jacket,Consumer,1,738,0.1,221,0.2995,Debit Card
+AM-10832,2026-06-05,North,Chandigarh,Electronics,Headphones,Corporate,2,10448,0.2,372,0.0356,Wallet
+AM-10833,2026-06-05,West,Pune,Beauty,Hair Dryer,Consumer,2,6536,0.05,2781,0.4255,Credit Card
+AM-10834,2026-06-05,West,Ahmedabad,Electronics,Power Bank,Corporate,5,60520,0.15,7718,0.1275,Net Banking
+AM-10835,2026-06-05,North,Delhi,Home & Kitchen,Bedsheet Set,Home Office,1,3680,0.2,766,0.2082,Credit Card
+AM-10836,2026-06-05,South,Chennai,Office Supplies,Desk Lamp,Consumer,1,2964,0.05,1566,0.5283,Credit Card
+AM-10837,2026-06-05,Central,Bhopal,Electronics,Power Bank,Home Office,3,12480,0.2,-514,-0.0412,Debit Card
+AM-10838,2026-06-05,West,Mumbai,Fashion,Kurta Set,Home Office,3,3936,0.2,755,0.1918,UPI
+AM-10839,2026-06-05,North,Delhi,Home & Kitchen,Mixer Grinder,Home Office,1,4922,0.15,1209,0.2456,UPI
+AM-10840,2026-06-05,North,Delhi,Home & Kitchen,Cookware Set,Consumer,1,3488,0.2,574,0.1646,UPI
+AM-10841,2026-06-06,South,Chennai,Electronics,Power Bank,Corporate,3,31432,0.25,-438,-0.0139,Credit Card
+AM-10842,2026-06-06,West,Surat,Electronics,Bluetooth Speaker,Consumer,2,16960,0.2,-360,-0.0212,UPI
+AM-10843,2026-06-06,South,Chennai,Fashion,Handbag,Consumer,3,12342,0.15,3207,0.2598,UPI
+AM-10844,2026-06-06,South,Kochi,Home & Kitchen,Cookware Set,Home Office,1,5414,0.15,1230,0.2272,Debit Card
+AM-10845,2026-06-06,Central,Bhopal,Fashion,Kurta Set,Home Office,2,5797,0.15,1841,0.3176,UPI
+AM-10846,2026-06-06,South,Kochi,Home & Kitchen,Bedsheet Set,Consumer,4,26532,0.1,7371,0.2778,UPI
+AM-10847,2026-06-06,South,Chennai,Fashion,Sneakers,Consumer,4,3876,0.15,953,0.2459,Credit Card
+AM-10848,2026-06-06,East,Bhubaneswar,Electronics,Smartwatch,Consumer,2,23568,0.2,1095,0.0465,UPI
+AM-10849,2026-06-06,North,Jaipur,Home & Kitchen,Mixer Grinder,Corporate,2,9392,0.2,1766,0.188,Wallet
+AM-10850,2026-06-06,Central,Indore,Home & Kitchen,Air Fryer,Corporate,3,16173,0.1,4017,0.2484,COD
+AM-10851,2026-06-06,South,Chennai,Beauty,Perfume,Consumer,1,2367,0.1,894,0.3777,UPI
+AM-10852,2026-06-06,North,Delhi,Office Supplies,Organizer Set,Corporate,4,18392,0.05,9609,0.5225,UPI
+AM-10853,2026-06-06,West,Surat,Fashion,Kurta Set,Consumer,1,3087,0.1,1009,0.3269,COD
+AM-10854,2026-06-06,West,Ahmedabad,Fashion,Handbag,Corporate,5,6795,0.1,2225,0.3274,UPI
+AM-10855,2026-06-06,North,Chandigarh,Home & Kitchen,Air Fryer,Consumer,1,7425,0.1,2214,0.2982,UPI
+AM-10856,2026-06-06,West,Pune,Office Supplies,Notebook Pack,Corporate,3,14796,0.1,6300,0.4258,UPI
+AM-10857,2026-06-06,North,Lucknow,Fashion,Jacket,Home Office,2,2768,0.2,763,0.2757,UPI
+AM-10858,2026-06-06,Central,Nagpur,Fashion,Handbag,Corporate,3,11067,0.15,2391,0.216,Credit Card
+AM-10859,2026-06-07,North,Lucknow,Electronics,Tablet,Consumer,2,4256,0.3,-951,-0.2234,UPI
+AM-10860,2026-06-07,South,Kochi,Electronics,Power Bank,Corporate,4,24576,0.2,873,0.0355,UPI
+AM-10861,2026-06-07,East,Guwahati,Office Supplies,Printer Ink,Consumer,2,6120,0.0,3092,0.5052,UPI
+AM-10862,2026-06-07,Central,Indore,Electronics,Smartwatch,Corporate,5,67108,0.15,7956,0.1186,Credit Card
+AM-10863,2026-06-07,Central,Indore,Beauty,Perfume,Consumer,2,3230,0.15,1326,0.4105,UPI
+AM-10864,2026-06-07,North,Jaipur,Office Supplies,Desk Lamp,Consumer,1,608,0.05,288,0.4737,UPI
+AM-10865,2026-06-07,North,Chandigarh,Fashion,Jacket,Consumer,3,11016,0.2,2690,0.2442,UPI
+AM-10866,2026-06-07,North,Chandigarh,Home & Kitchen,Mixer Grinder,Consumer,3,16090,0.15,2617,0.1626,Debit Card
+AM-10867,2026-06-07,Central,Bhopal,Electronics,Tablet,Corporate,3,39321,0.15,2446,0.0622,Debit Card
+AM-10868,2026-06-07,West,Pune,Home & Kitchen,Cookware Set,Corporate,4,30056,0.15,7592,0.2526,Debit Card
+AM-10869,2026-06-07,South,Bengaluru,Fashion,Jacket,Consumer,2,7072,0.15,1694,0.2395,Wallet
+AM-10870,2026-06-07,West,Ahmedabad,Electronics,Headphones,Corporate,3,39092,0.15,4267,0.1092,Debit Card
+AM-10871,2026-06-07,Central,Bhopal,Fashion,Sneakers,Home Office,1,3290,0.15,782,0.2377,Net Banking
+AM-10872,2026-06-07,North,Jaipur,Electronics,Bluetooth Speaker,Consumer,2,5552,0.2,-139,-0.025,UPI
+AM-10873,2026-06-07,South,Bengaluru,Electronics,Power Bank,Corporate,6,13056,0.2,-966,-0.074,Credit Card
+AM-10874,2026-06-07,East,Bhubaneswar,Fashion,Kurta Set,Consumer,2,5724,0.1,1788,0.3124,Wallet
+AM-10875,2026-06-07,North,Delhi,Electronics,Headphones,Home Office,2,24015,0.25,-1832,-0.0763,COD
+AM-10876,2026-06-07,East,Bhubaneswar,Electronics,Bluetooth Speaker,Consumer,1,7752,0.15,310,0.04,Net Banking
+AM-10877,2026-06-07,South,Bengaluru,Beauty,Hair Dryer,Consumer,4,11514,0.05,5528,0.4801,Net Banking
+AM-10878,2026-06-07,South,Hyderabad,Electronics,Tablet,Corporate,1,2380,0.15,242,0.1017,UPI
+AM-10879,2026-06-08,North,Lucknow,Office Supplies,Organizer Set,Consumer,1,1089,0.1,482,0.4426,Credit Card
+AM-10880,2026-06-08,East,Bhubaneswar,Beauty,Perfume,Consumer,1,2071,0.05,971,0.4689,Wallet
+AM-10881,2026-06-08,North,Jaipur,Electronics,Bluetooth Speaker,Consumer,1,11970,0.3,-719,-0.0601,UPI
+AM-10882,2026-06-08,East,Patna,Home & Kitchen,Cookware Set,Home Office,3,24003,0.1,6211,0.2588,COD
+AM-10883,2026-06-08,South,Kochi,Electronics,Power Bank,Consumer,1,3281,0.15,169,0.0515,Net Banking
+AM-10884,2026-06-08,North,Lucknow,Beauty,Skincare Kit,Corporate,4,9112,0.15,3202,0.3514,UPI
+AM-10885,2026-06-08,West,Ahmedabad,Electronics,Tablet,Consumer,3,36382,0.25,-3274,-0.09,Debit Card
+AM-10886,2026-06-08,South,Bengaluru,Beauty,Skincare Kit,Consumer,1,826,0.05,338,0.4092,Credit Card
+AM-10887,2026-06-08,West,Pune,Beauty,Perfume,Consumer,1,960,0.15,406,0.4229,UPI
+AM-10888,2026-06-08,North,Lucknow,Home & Kitchen,Air Fryer,Consumer,5,16362,0.15,3881,0.2372,Credit Card
+AM-10889,2026-06-08,East,Patna,Electronics,Smartwatch,Consumer,1,9518,0.25,-596,-0.0626,Credit Card
+AM-10890,2026-06-09,East,Bhubaneswar,Electronics,Headphones,Consumer,1,5559,0.15,401,0.0721,COD
+AM-10891,2026-06-09,East,Kolkata,Fashion,Handbag,Consumer,2,7276,0.15,2006,0.2757,Credit Card
+AM-10892,2026-06-09,North,Lucknow,Office Supplies,Notebook Pack,Consumer,1,522,0.1,253,0.4847,UPI
+AM-10893,2026-06-09,North,Delhi,Electronics,Tablet,Consumer,1,5205,0.25,-122,-0.0234,UPI
+AM-10894,2026-06-09,South,Kochi,Home & Kitchen,Cookware Set,Home Office,3,5415,0.05,1926,0.3557,COD
+AM-10895,2026-06-09,North,Jaipur,Electronics,Headphones,Corporate,3,17865,0.25,-598,-0.0335,Credit Card
+AM-10896,2026-06-09,West,Ahmedabad,Electronics,Bluetooth Speaker,Corporate,3,23026,0.15,1034,0.0449,Debit Card
+AM-10897,2026-06-09,East,Patna,Electronics,Tablet,Consumer,5,66512,0.15,1259,0.0189,UPI
+AM-10898,2026-06-09,South,Hyderabad,Electronics,Smartwatch,Consumer,1,4008,0.2,243,0.0606,Net Banking
+AM-10899,2026-06-09,North,Delhi,Home & Kitchen,Vacuum Cleaner,Home Office,2,7488,0.2,1173,0.1567,Net Banking
+AM-10900,2026-06-10,East,Patna,Office Supplies,Notebook Pack,Corporate,3,9861,0.05,4633,0.4698,Net Banking
+AM-10901,2026-06-10,North,Delhi,Beauty,Hair Dryer,Consumer,1,2296,0.2,878,0.3824,UPI
+AM-10902,2026-06-10,West,Mumbai,Fashion,Handbag,Home Office,2,7922,0.15,2539,0.3205,Debit Card
+AM-10903,2026-06-10,East,Patna,Office Supplies,Printer Ink,Consumer,2,2898,0.1,1316,0.4541,Net Banking
+AM-10904,2026-06-10,Central,Indore,Office Supplies,Notebook Pack,Consumer,2,8265,0.05,4083,0.494,UPI
+AM-10905,2026-06-10,North,Chandigarh,Fashion,Jeans,Corporate,4,9312,0.2,2615,0.2808,Net Banking
+AM-10906,2026-06-10,North,Jaipur,Electronics,Tablet,Corporate,4,12576,0.2,288,0.0229,Credit Card
+AM-10907,2026-06-10,East,Guwahati,Electronics,Tablet,Corporate,1,10863,0.15,965,0.0888,Wallet
+AM-10908,2026-06-10,East,Patna,Electronics,Smartwatch,Corporate,2,19808,0.2,507,0.0256,Wallet
+AM-10909,2026-06-10,North,Jaipur,Fashion,Sneakers,Corporate,1,2016,0.2,399,0.1979,Debit Card
+AM-10910,2026-06-10,South,Chennai,Electronics,Smartwatch,Consumer,2,4275,0.25,-460,-0.1076,COD
+AM-10911,2026-06-10,North,Chandigarh,Fashion,Kurta Set,Consumer,3,3480,0.2,724,0.208,UPI
+AM-10912,2026-06-10,East,Guwahati,Electronics,Tablet,Corporate,2,25360,0.2,401,0.0158,COD
+AM-10913,2026-06-11,West,Mumbai,Electronics,Tablet,Consumer,4,55658,0.15,1923,0.0346,UPI
+AM-10914,2026-06-11,South,Kochi,Fashion,Jeans,Consumer,1,910,0.15,229,0.2516,Debit Card
+AM-10915,2026-06-11,South,Kochi,Fashion,Kurta Set,Consumer,1,1572,0.15,451,0.2869,Credit Card
+AM-10916,2026-06-11,North,Lucknow,Office Supplies,Notebook Pack,Consumer,1,391,0.15,185,0.4731,Credit Card
+AM-10917,2026-06-11,East,Guwahati,Beauty,Hair Dryer,Consumer,1,1598,0.15,697,0.4362,Credit Card
+AM-10918,2026-06-11,North,Chandigarh,Home & Kitchen,Air Fryer,Home Office,2,12368,0.2,1606,0.1299,Credit Card
+AM-10919,2026-06-11,East,Kolkata,Home & Kitchen,Air Fryer,Corporate,4,32870,0.05,11835,0.3601,Net Banking
+AM-10920,2026-06-11,East,Patna,Fashion,Handbag,Consumer,2,6030,0.1,1755,0.291,COD
+AM-10921,2026-06-11,South,Hyderabad,Home & Kitchen,Cookware Set,Corporate,3,20553,0.15,4224,0.2055,UPI
+AM-10922,2026-06-11,South,Kochi,Home & Kitchen,Bedsheet Set,Consumer,1,4833,0.1,1233,0.2551,Net Banking
+AM-10923,2026-06-11,North,Chandigarh,Fashion,Handbag,Corporate,4,11424,0.2,2804,0.2454,UPI
+AM-10924,2026-06-11,South,Kochi,Home & Kitchen,Cookware Set,Consumer,3,13184,0.15,2482,0.1883,Net Banking
+AM-10925,2026-06-11,South,Chennai,Beauty,Perfume,Consumer,2,2826,0.1,1248,0.4416,UPI
+AM-10926,2026-06-11,North,Jaipur,Electronics,Tablet,Home Office,2,18242,0.3,-2746,-0.1505,Net Banking
+AM-10927,2026-06-11,North,Jaipur,Electronics,Power Bank,Consumer,2,28064,0.2,140,0.005,Wallet
+AM-10928,2026-06-11,East,Bhubaneswar,Fashion,Handbag,Corporate,2,4320,0.1,1508,0.3491,UPI
+AM-10929,2026-06-11,East,Kolkata,Beauty,Perfume,Corporate,1,1870,0.15,721,0.3856,UPI
+AM-10930,2026-06-11,Central,Bhopal,Office Supplies,Notebook Pack,Corporate,3,1482,0.05,713,0.4811,Credit Card
+AM-10931,2026-06-11,East,Patna,Home & Kitchen,Vacuum Cleaner,Consumer,2,2952,0.1,850,0.2879,Debit Card
+AM-10932,2026-06-12,East,Kolkata,Beauty,Trimmer,Corporate,4,6688,0.05,2991,0.4472,Net Banking
+AM-10933,2026-06-12,North,Chandigarh,Home & Kitchen,Bedsheet Set,Corporate,7,35784,0.2,5914,0.1653,UPI
+AM-10934,2026-06-12,Central,Indore,Home & Kitchen,Air Fryer,Consumer,1,6613,0.15,1392,0.2105,COD
+AM-10935,2026-06-12,North,Chandigarh,Electronics,Tablet,Consumer,2,27600,0.2,1099,0.0398,UPI
+AM-10936,2026-06-12,Central,Nagpur,Fashion,Kurta Set,Consumer,1,1692,0.15,478,0.2825,COD
+AM-10937,2026-06-12,North,Chandigarh,Beauty,Perfume,Consumer,1,1640,0.15,669,0.4079,UPI
+AM-10938,2026-06-12,West,Pune,Home & Kitchen,Mixer Grinder,Corporate,4,23220,0.1,5255,0.2263,COD
+AM-10939,2026-06-12,North,Delhi,Electronics,Smartwatch,Corporate,4,36570,0.25,-186,-0.0051,UPI
+AM-10940,2026-06-12,Central,Nagpur,Office Supplies,Ergonomic Chair,Corporate,2,7470,0.1,3615,0.4839,UPI
+AM-10941,2026-06-12,East,Guwahati,Home & Kitchen,Vacuum Cleaner,Consumer,3,16422,0.15,2903,0.1768,Debit Card
+AM-10942,2026-06-12,North,Chandigarh,Office Supplies,Ergonomic Chair,Consumer,2,2754,0.15,1221,0.4434,UPI
+AM-10943,2026-06-12,South,Bengaluru,Electronics,Tablet,Corporate,1,7268,0.15,944,0.1299,Debit Card
+AM-10944,2026-06-12,East,Bhubaneswar,Fashion,Kurta Set,Consumer,1,2839,0.15,807,0.2843,Net Banking
+AM-10945,2026-06-12,Central,Bhopal,Beauty,Hair Dryer,Corporate,1,1919,0.05,908,0.4732,Debit Card
+AM-10946,2026-06-12,North,Lucknow,Home & Kitchen,Bedsheet Set,Corporate,3,9308,0.15,1692,0.1818,UPI
+AM-10947,2026-06-13,South,Chennai,Electronics,Smartwatch,Consumer,1,10504,0.2,-733,-0.0698,UPI
+AM-10948,2026-06-13,East,Kolkata,Office Supplies,Printer Ink,Corporate,5,26460,0.1,11927,0.4508,COD
+AM-10949,2026-06-13,East,Patna,Fashion,Jeans,Consumer,1,1071,0.15,352,0.3287,UPI
+AM-10950,2026-06-13,West,Pune,Beauty,Trimmer,Corporate,4,7776,0.1,3482,0.4478,UPI
+AM-10951,2026-06-13,North,Delhi,Home & Kitchen,Air Fryer,Consumer,2,13005,0.15,2945,0.2265,UPI
+AM-10952,2026-06-13,West,Surat,Fashion,Kurta Set,Consumer,1,3655,0.15,1118,0.3059,Debit Card
+AM-10953,2026-06-13,South,Bengaluru,Electronics,Headphones,Consumer,1,4120,0.2,-14,-0.0034,Credit Card
+AM-10954,2026-06-13,South,Kochi,Electronics,Tablet,Corporate,4,30226,0.15,2853,0.0944,COD
+AM-10955,2026-06-13,North,Chandigarh,Beauty,Makeup Palette,Corporate,4,13464,0.1,5472,0.4064,Credit Card
+AM-10956,2026-06-13,South,Hyderabad,Fashion,Sneakers,Corporate,5,14748,0.15,4463,0.3026,Net Banking
+AM-10957,2026-06-13,North,Chandigarh,Beauty,Perfume,Consumer,2,1350,0.1,619,0.4585,UPI
+AM-10958,2026-06-13,South,Chennai,Beauty,Skincare Kit,Consumer,1,2108,0.15,886,0.4203,UPI
+AM-10959,2026-06-13,East,Guwahati,Office Supplies,Printer Ink,Consumer,1,1150,0.05,589,0.5122,COD
+AM-10960,2026-06-13,North,Jaipur,Beauty,Trimmer,Home Office,4,10812,0.15,4679,0.4328,UPI
+AM-10961,2026-06-13,North,Chandigarh,Fashion,Jeans,Corporate,4,8704,0.2,2073,0.2382,Net Banking
+AM-10962,2026-06-13,South,Chennai,Home & Kitchen,Vacuum Cleaner,Corporate,5,36675,0.1,11309,0.3084,UPI
+AM-10963,2026-06-13,West,Pune,Home & Kitchen,Bedsheet Set,Consumer,4,8058,0.15,1936,0.2403,UPI
+AM-10964,2026-06-13,North,Lucknow,Electronics,Bluetooth Speaker,Consumer,2,23450,0.3,-3504,-0.1494,Debit Card
+AM-10965,2026-06-14,East,Kolkata,Electronics,Tablet,Corporate,1,15283,0.15,1550,0.1014,COD
+AM-10966,2026-06-14,South,Chennai,Home & Kitchen,Air Fryer,Consumer,3,13936,0.05,3610,0.259,COD
+AM-10967,2026-06-14,North,Lucknow,Home & Kitchen,Cookware Set,Consumer,1,5976,0.15,1586,0.2654,UPI
+AM-10968,2026-06-14,West,Ahmedabad,Electronics,Headphones,Home Office,2,17456,0.2,-477,-0.0273,Credit Card
+AM-10969,2026-06-14,West,Mumbai,Electronics,Bluetooth Speaker,Consumer,2,14848,0.2,-739,-0.0498,Credit Card
+AM-10970,2026-06-14,Central,Indore,Beauty,Perfume,Home Office,1,1845,0.1,788,0.4271,UPI
+AM-10971,2026-06-14,East,Guwahati,Electronics,Headphones,Consumer,1,9255,0.25,-501,-0.0541,UPI
+AM-10972,2026-06-14,North,Chandigarh,Fashion,Kurta Set,Corporate,2,5888,0.2,1534,0.2605,Credit Card
+AM-10973,2026-06-14,West,Mumbai,Electronics,Power Bank,Consumer,1,9877,0.15,547,0.0554,Credit Card
+AM-10974,2026-06-14,East,Kolkata,Home & Kitchen,Cookware Set,Consumer,2,7200,0.1,1524,0.2117,Debit Card
+AM-10975,2026-06-14,South,Bengaluru,Home & Kitchen,Air Fryer,Consumer,2,5100,0.15,1413,0.2771,UPI
+AM-10976,2026-06-14,South,Hyderabad,Office Supplies,Organizer Set,Consumer,1,4997,0.05,2527,0.5057,UPI
+AM-10977,2026-06-14,East,Kolkata,Home & Kitchen,Cookware Set,Corporate,4,12426,0.05,4338,0.3491,Credit Card
+AM-10978,2026-06-14,West,Ahmedabad,Fashion,Kurta Set,Corporate,5,15640,0.15,4317,0.276,COD
+AM-10979,2026-06-14,Central,Raipur,Fashion,Handbag,Consumer,1,1878,0.15,411,0.2188,Net Banking
+AM-10980,2026-06-14,Central,Indore,Beauty,Trimmer,Home Office,1,1148,0.15,429,0.3737,Credit Card
+AM-10981,2026-06-14,East,Bhubaneswar,Home & Kitchen,Bedsheet Set,Home Office,1,1558,0.05,556,0.3569,Credit Card
+AM-10982,2026-06-14,West,Ahmedabad,Home & Kitchen,Vacuum Cleaner,Consumer,3,3111,0.15,587,0.1887,Credit Card
+AM-10983,2026-06-14,West,Mumbai,Electronics,Tablet,Corporate,3,29198,0.15,-265,-0.0091,Net Banking
+AM-10984,2026-06-14,South,Hyderabad,Electronics,Bluetooth Speaker,Corporate,4,28768,0.2,1928,0.067,Net Banking
+AM-10985,2026-06-15,Central,Indore,Electronics,Bluetooth Speaker,Corporate,3,42432,0.15,4620,0.1089,COD
+AM-10986,2026-06-15,Central,Nagpur,Fashion,Sneakers,Consumer,1,4311,0.1,1563,0.3626,COD
+AM-10987,2026-06-15,North,Delhi,Electronics,Bluetooth Speaker,Consumer,2,10890,0.25,-517,-0.0475,UPI
+AM-10988,2026-06-15,Central,Nagpur,Office Supplies,Organizer Set,Home Office,2,3042,0.1,1449,0.4763,UPI
+AM-10989,2026-06-15,East,Kolkata,Beauty,Makeup Palette,Corporate,1,884,0.05,364,0.4118,Credit Card
+AM-10990,2026-06-15,East,Guwahati,Office Supplies,Desk Lamp,Consumer,1,927,0.1,406,0.438,Credit Card
+AM-10991,2026-06-15,Central,Indore,Electronics,Bluetooth Speaker,Home Office,3,9120,0.2,250,0.0274,Wallet
+AM-10992,2026-06-15,North,Jaipur,Beauty,Skincare Kit,Consumer,3,7905,0.15,3347,0.4234,UPI
+AM-10993,2026-06-15,East,Bhubaneswar,Electronics,Tablet,Corporate,3,43299,0.15,1939,0.0448,Net Banking
+AM-10994,2026-06-15,West,Pune,Fashion,Jeans,Consumer,1,2656,0.2,552,0.2078,UPI
+AM-10995,2026-06-15,South,Kochi,Electronics,Bluetooth Speaker,Consumer,2,28084,0.15,3303,0.1176,UPI
+AM-10996,2026-06-15,East,Patna,Electronics,Power Bank,Corporate,2,13651,0.15,251,0.0184,Credit Card
+AM-10997,2026-06-15,Central,Raipur,Home & Kitchen,Air Fryer,Corporate,2,2160,0.1,520,0.2407,UPI
+AM-10998,2026-06-15,South,Hyderabad,Home & Kitchen,Mixer Grinder,Home Office,1,8122,0.05,2724,0.3354,UPI
+AM-10999,2026-06-15,West,Pune,Fashion,Jacket,Home Office,1,1088,0.15,316,0.2904,Credit Card
+AM-11000,2026-06-16,West,Surat,Home & Kitchen,Cookware Set,Consumer,1,6291,0.1,1567,0.2491,UPI
+AM-11001,2026-06-16,North,Jaipur,Electronics,Tablet,Consumer,3,19752,0.2,539,0.0273,Credit Card
+AM-11002,2026-06-16,East,Bhubaneswar,Home & Kitchen,Bedsheet Set,Consumer,1,5890,0.05,1492,0.2533,UPI
+AM-11003,2026-06-16,West,Mumbai,Fashion,Jacket,Consumer,2,4386,0.15,979,0.2232,Debit Card
+AM-11004,2026-06-16,Central,Indore,Office Supplies,Notebook Pack,Corporate,3,2214,0.1,1086,0.4905,COD
+AM-11005,2026-06-16,East,Patna,Office Supplies,Ergonomic Chair,Consumer,1,3660,0.0,2035,0.556,Credit Card
+AM-11006,2026-06-16,North,Chandigarh,Electronics,Bluetooth Speaker,Consumer,5,31920,0.2,1713,0.0537,UPI
+AM-11007,2026-06-16,South,Kochi,Electronics,Smartwatch,Consumer,2,19872,0.2,-468,-0.0236,Credit Card
+AM-11008,2026-06-16,East,Bhubaneswar,Fashion,Jeans,Consumer,2,2016,0.1,731,0.3626,UPI
+AM-11009,2026-06-16,East,Guwahati,Office Supplies,Ergonomic Chair,Consumer,1,324,0.1,165,0.5093,Credit Card
+AM-11010,2026-06-16,West,Surat,Electronics,Tablet,Corporate,3,29688,0.2,-132,-0.0044,Wallet
+AM-11011,2026-06-16,South,Kochi,Fashion,Sneakers,Home Office,1,1964,0.15,579,0.2948,COD
+AM-11012,2026-06-16,North,Jaipur,Fashion,Handbag,Home Office,2,3009,0.15,798,0.2652,UPI
+AM-11013,2026-06-16,West,Ahmedabad,Electronics,Tablet,Consumer,5,32045,0.15,2972,0.0927,UPI
+AM-11014,2026-06-16,West,Mumbai,Fashion,Jeans,Home Office,2,2318,0.05,701,0.3024,UPI
+AM-11015,2026-06-17,East,Bhubaneswar,Electronics,Tablet,Consumer,2,13365,0.25,-345,-0.0258,Debit Card
+AM-11016,2026-06-17,Central,Raipur,Electronics,Tablet,Home Office,1,4612,0.25,-502,-0.1088,COD
+AM-11017,2026-06-17,South,Bengaluru,Electronics,Bluetooth Speaker,Corporate,2,10931,0.15,181,0.0166,UPI
+AM-11018,2026-06-17,East,Bhubaneswar,Office Supplies,Notebook Pack,Consumer,3,1624,0.05,821,0.5055,Credit Card
+AM-11019,2026-06-17,East,Bhubaneswar,Beauty,Makeup Palette,Consumer,1,1629,0.1,626,0.3843,Net Banking
+AM-11020,2026-06-17,South,Bengaluru,Electronics,Headphones,Corporate,2,17391,0.15,1949,0.1121,UPI
+AM-11021,2026-06-17,South,Hyderabad,Home & Kitchen,Bedsheet Set,Consumer,2,12546,0.1,2660,0.212,Net Banking
+AM-11022,2026-06-17,East,Kolkata,Electronics,Tablet,Consumer,2,13312,0.2,-123,-0.0092,Debit Card
+AM-11023,2026-06-17,Central,Indore,Home & Kitchen,Vacuum Cleaner,Consumer,1,3544,0.15,629,0.1775,UPI
+AM-11024,2026-06-17,East,Guwahati,Beauty,Hair Dryer,Consumer,1,1748,0.05,745,0.4262,COD
+AM-11025,2026-06-17,South,Hyderabad,Home & Kitchen,Cookware Set,Corporate,2,12529,0.15,2855,0.2279,UPI
+AM-11026,2026-06-17,West,Pune,Beauty,Skincare Kit,Consumer,3,2280,0.05,1090,0.4781,Credit Card
+AM-11027,2026-06-17,North,Delhi,Fashion,Jeans,Corporate,1,2664,0.2,558,0.2095,UPI
+AM-11028,2026-06-17,East,Kolkata,Electronics,Tablet,Consumer,1,11496,0.2,-470,-0.0409,UPI
+AM-11029,2026-06-17,North,Jaipur,Electronics,Headphones,Consumer,1,11190,0.25,-843,-0.0753,COD
+AM-11030,2026-06-17,North,Jaipur,Home & Kitchen,Vacuum Cleaner,Corporate,3,12520,0.15,3388,0.2706,Credit Card
+AM-11031,2026-06-18,West,Ahmedabad,Beauty,Trimmer,Consumer,3,4671,0.1,2093,0.4481,Credit Card
+AM-11032,2026-06-18,South,Hyderabad,Beauty,Hair Dryer,Corporate,7,9580,0.15,3711,0.3874,Credit Card
+AM-11033,2026-06-18,East,Kolkata,Electronics,Tablet,Consumer,1,12360,0.25,-1186,-0.096,UPI
+AM-11034,2026-06-18,South,Kochi,Fashion,Kurta Set,Home Office,3,7650,0.15,2319,0.3031,COD
+AM-11035,2026-06-18,North,Jaipur,Home & Kitchen,Cookware Set,Home Office,1,6518,0.25,769,0.118,UPI
+AM-11036,2026-06-18,South,Kochi,Home & Kitchen,Bedsheet Set,Corporate,3,9333,0.15,2201,0.2358,UPI
+AM-11037,2026-06-18,Central,Bhopal,Electronics,Tablet,Corporate,5,71485,0.15,5230,0.0732,Wallet
+AM-11038,2026-06-18,Central,Nagpur,Electronics,Headphones,Corporate,4,28260,0.25,-1606,-0.0568,UPI
+AM-11039,2026-06-18,West,Mumbai,Electronics,Power Bank,Corporate,3,20884,0.15,2517,0.1205,Credit Card
+AM-11040,2026-06-18,East,Kolkata,Electronics,Tablet,Home Office,3,35280,0.25,-3716,-0.1053,UPI
+AM-11041,2026-06-18,West,Pune,Office Supplies,Organizer Set,Home Office,2,3940,0.0,2037,0.517,UPI
+AM-11042,2026-06-19,Central,Nagpur,Beauty,Hair Dryer,Corporate,3,2376,0.1,991,0.4171,Credit Card
+AM-11043,2026-06-19,Central,Nagpur,Beauty,Trimmer,Consumer,2,2034,0.1,922,0.4533,COD
+AM-11044,2026-06-19,North,Jaipur,Office Supplies,Ergonomic Chair,Home Office,2,3328,0.2,1326,0.3984,UPI
+AM-11045,2026-06-19,North,Chandigarh,Fashion,Sneakers,Home Office,1,978,0.15,264,0.2699,Debit Card
+AM-11046,2026-06-19,Central,Raipur,Beauty,Trimmer,Consumer,1,2511,0.1,1146,0.4564,Credit Card
+AM-11047,2026-06-19,West,Surat,Fashion,Handbag,Consumer,1,1436,0.15,316,0.2201,UPI
+AM-11048,2026-06-19,North,Lucknow,Electronics,Smartwatch,Consumer,1,4980,0.25,-334,-0.0671,Credit Card
+AM-11049,2026-06-19,East,Bhubaneswar,Electronics,Power Bank,Consumer,2,13549,0.15,1153,0.0851,COD
+AM-11050,2026-06-19,West,Mumbai,Office Supplies,Desk Lamp,Consumer,2,11660,0.0,6029,0.5171,UPI
+AM-11051,2026-06-19,West,Ahmedabad,Fashion,Jacket,Corporate,1,1503,0.1,458,0.3047,Debit Card
+AM-11052,2026-06-19,South,Hyderabad,Fashion,Jacket,Home Office,4,4488,0.15,1175,0.2618,UPI
+AM-11053,2026-06-19,West,Ahmedabad,Home & Kitchen,Cookware Set,Consumer,2,15164,0.15,2983,0.1967,Credit Card
+AM-11054,2026-06-19,West,Mumbai,Electronics,Tablet,Home Office,2,26055,0.25,-825,-0.0317,UPI
+AM-11055,2026-06-19,North,Chandigarh,Fashion,Handbag,Consumer,5,3280,0.2,670,0.2043,Net Banking
+AM-11056,2026-06-19,West,Pune,Fashion,Handbag,Consumer,3,8390,0.15,2183,0.2602,Credit Card
+AM-11057,2026-06-19,South,Hyderabad,Electronics,Headphones,Consumer,1,5355,0.15,440,0.0822,Credit Card
+AM-11058,2026-06-19,South,Bengaluru,Home & Kitchen,Mixer Grinder,Consumer,2,8854,0.05,2603,0.294,UPI
+AM-11059,2026-06-19,Central,Bhopal,Electronics,Power Bank,Consumer,1,10440,0.2,-554,-0.0531,Debit Card
+AM-11060,2026-06-20,West,Pune,Home & Kitchen,Vacuum Cleaner,Consumer,2,8789,0.15,1531,0.1742,UPI
+AM-11061,2026-06-20,North,Jaipur,Office Supplies,Printer Ink,Consumer,1,3483,0.1,1694,0.4864,Wallet
+AM-11062,2026-06-20,North,Lucknow,Office Supplies,Printer Ink,Consumer,1,2176,0.05,1018,0.4678,UPI
+AM-11063,2026-06-20,South,Kochi,Office Supplies,Notebook Pack,Consumer,1,4980,0.0,2465,0.495,Net Banking
+AM-11064,2026-06-20,Central,Indore,Home & Kitchen,Cookware Set,Consumer,1,2480,0.05,875,0.3528,COD
+AM-11065,2026-06-20,West,Mumbai,Beauty,Skincare Kit,Home Office,1,788,0.05,383,0.486,UPI
+AM-11066,2026-06-20,South,Chennai,Electronics,Smartwatch,Corporate,7,84490,0.15,1312,0.0155,Credit Card
+AM-11067,2026-06-20,West,Pune,Electronics,Smartwatch,Corporate,4,43282,0.15,174,0.004,Wallet
+AM-11068,2026-06-20,Central,Nagpur,Office Supplies,Organizer Set,Consumer,2,1938,0.05,989,0.5103,UPI
+AM-11069,2026-06-20,East,Patna,Electronics,Power Bank,Consumer,1,6592,0.2,370,0.0561,UPI
+AM-11070,2026-06-20,North,Jaipur,Fashion,Sneakers,Consumer,2,2730,0.25,436,0.1597,Net Banking
+AM-11071,2026-06-20,West,Pune,Home & Kitchen,Bedsheet Set,Consumer,3,17468,0.15,3623,0.2074,COD
+AM-11072,2026-06-20,North,Jaipur,Fashion,Handbag,Home Office,2,5648,0.2,1596,0.2826,Debit Card
+AM-11073,2026-06-20,South,Kochi,Electronics,Smartwatch,Consumer,2,18649,0.15,474,0.0254,UPI
+AM-11074,2026-06-20,West,Surat,Home & Kitchen,Cookware Set,Home Office,2,5130,0.1,1201,0.2341,Debit Card
+AM-11075,2026-06-21,West,Mumbai,Home & Kitchen,Bedsheet Set,Corporate,4,18938,0.15,4686,0.2474,Net Banking
+AM-11076,2026-06-21,North,Lucknow,Fashion,Sneakers,Consumer,1,1904,0.15,487,0.2558,UPI
+AM-11077,2026-06-21,East,Guwahati,Fashion,Jacket,Consumer,1,1216,0.15,279,0.2294,UPI
+AM-11078,2026-06-21,Central,Raipur,Office Supplies,Organizer Set,Corporate,6,27378,0.1,12358,0.4514,Net Banking
+AM-11079,2026-06-21,West,Surat,Office Supplies,Organizer Set,Consumer,3,5967,0.1,3039,0.5093,Net Banking
+AM-11080,2026-06-21,Central,Raipur,Beauty,Perfume,Home Office,1,1644,0.05,812,0.4939,Net Banking
+AM-11081,2026-06-21,North,Lucknow,Beauty,Perfume,Consumer,1,1782,0.1,773,0.4338,Credit Card
+AM-11082,2026-06-21,South,Bengaluru,Electronics,Tablet,Corporate,4,32334,0.15,94,0.0029,Net Banking
+AM-11083,2026-06-21,East,Kolkata,Beauty,Perfume,Corporate,4,2210,0.15,894,0.4045,UPI
+AM-11084,2026-06-21,South,Hyderabad,Beauty,Trimmer,Consumer,1,2147,0.05,1062,0.4946,UPI
+AM-11085,2026-06-21,North,Delhi,Fashion,Sneakers,Corporate,5,8800,0.2,2375,0.2699,UPI
+AM-11086,2026-06-21,North,Jaipur,Office Supplies,Ergonomic Chair,Consumer,5,5985,0.1,2953,0.4934,UPI
+AM-11087,2026-06-21,South,Bengaluru,Office Supplies,Organizer Set,Home Office,4,13262,0.05,6953,0.5243,Credit Card
+AM-11088,2026-06-21,West,Ahmedabad,Beauty,Skincare Kit,Consumer,2,6707,0.05,2775,0.4137,Debit Card
+AM-11089,2026-06-21,East,Guwahati,Fashion,Sneakers,Home Office,2,2736,0.1,921,0.3366,Debit Card
+AM-11090,2026-06-21,West,Surat,Home & Kitchen,Cookware Set,Corporate,1,5272,0.05,1891,0.3587,UPI
+AM-11091,2026-06-22,South,Hyderabad,Fashion,Handbag,Consumer,1,1431,0.1,449,0.3138,UPI
+AM-11092,2026-06-22,North,Jaipur,Fashion,Sneakers,Consumer,1,1768,0.15,408,0.2308,Credit Card
+AM-11093,2026-06-22,North,Lucknow,Fashion,Sneakers,Corporate,4,15168,0.2,3558,0.2346,UPI
+AM-11094,2026-06-22,South,Kochi,Fashion,Jacket,Home Office,1,3735,0.1,1245,0.3333,UPI
+AM-11095,2026-06-22,South,Kochi,Electronics,Smartwatch,Consumer,2,18938,0.15,620,0.0327,UPI
+AM-11096,2026-06-22,North,Lucknow,Electronics,Smartwatch,Corporate,2,10080,0.2,-665,-0.066,UPI
+AM-11097,2026-06-22,South,Hyderabad,Beauty,Trimmer,Home Office,2,1938,0.05,855,0.4412,UPI
+AM-11098,2026-06-22,West,Surat,Fashion,Sneakers,Consumer,2,7225,0.15,2321,0.3212,Wallet
+AM-11099,2026-06-22,West,Surat,Office Supplies,Notebook Pack,Consumer,1,570,0.0,304,0.5333,UPI
+AM-11100,2026-06-22,South,Kochi,Office Supplies,Organizer Set,Home Office,1,3990,0.0,2171,0.5441,Credit Card
+AM-11101,2026-06-23,South,Chennai,Beauty,Skincare Kit,Consumer,1,567,0.1,234,0.4127,Wallet
+AM-11102,2026-06-23,East,Bhubaneswar,Electronics,Power Bank,Consumer,2,12640,0.2,183,0.0145,Net Banking
+AM-11103,2026-06-23,West,Surat,Electronics,Smartwatch,Corporate,2,23280,0.25,385,0.0165,UPI
+AM-11104,2026-06-23,West,Mumbai,Fashion,Kurta Set,Home Office,1,3400,0.15,789,0.2321,Debit Card
+AM-11105,2026-06-23,West,Mumbai,Office Supplies,Printer Ink,Consumer,1,2299,0.05,1163,0.5059,Debit Card
+AM-11106,2026-06-23,North,Jaipur,Electronics,Headphones,Corporate,3,13920,0.2,816,0.0586,COD
+AM-11107,2026-06-24,South,Hyderabad,Beauty,Hair Dryer,Home Office,4,2736,0.1,1043,0.3812,UPI
+AM-11108,2026-06-24,North,Lucknow,Office Supplies,Ergonomic Chair,Consumer,2,4541,0.05,2301,0.5067,UPI
+AM-11109,2026-06-24,North,Lucknow,Beauty,Hair Dryer,Consumer,1,1134,0.1,446,0.3933,UPI
+AM-11110,2026-06-24,South,Chennai,Fashion,Jeans,Home Office,3,8559,0.1,2523,0.2948,UPI
+AM-11111,2026-06-24,West,Surat,Home & Kitchen,Mixer Grinder,Home Office,4,20160,0.1,5754,0.2854,Credit Card
+AM-11112,2026-06-24,Central,Raipur,Beauty,Hair Dryer,Corporate,6,11457,0.05,4835,0.422,Net Banking
+AM-11113,2026-06-25,South,Hyderabad,Fashion,Jeans,Home Office,1,1968,0.2,366,0.186,UPI
+AM-11114,2026-06-25,West,Pune,Fashion,Jacket,Consumer,1,4365,0.1,1197,0.2742,UPI
+AM-11115,2026-06-25,West,Mumbai,Office Supplies,Notebook Pack,Home Office,1,3753,0.1,1754,0.4674,UPI
+AM-11116,2026-06-25,South,Hyderabad,Electronics,Smartwatch,Corporate,1,6104,0.2,-474,-0.0777,Net Banking
+AM-11117,2026-06-25,South,Bengaluru,Fashion,Jacket,Consumer,2,5270,0.15,1364,0.2588,UPI
+AM-11118,2026-06-25,West,Mumbai,Electronics,Bluetooth Speaker,Corporate,1,6613,0.15,402,0.0608,Debit Card
+AM-11119,2026-06-25,North,Lucknow,Home & Kitchen,Bedsheet Set,Consumer,1,3984,0.2,661,0.1659,COD
+AM-11120,2026-06-25,Central,Bhopal,Office Supplies,Ergonomic Chair,Consumer,3,1680,0.0,828,0.4929,COD
+AM-11121,2026-06-25,West,Ahmedabad,Electronics,Headphones,Corporate,2,5664,0.2,-193,-0.0341,Debit Card
+AM-11122,2026-06-25,West,Mumbai,Beauty,Makeup Palette,Consumer,2,4392,0.1,2000,0.4554,UPI
+AM-11123,2026-06-25,North,Lucknow,Fashion,Handbag,Corporate,4,4480,0.2,1165,0.26,UPI
+AM-11124,2026-06-26,West,Pune,Fashion,Jacket,Consumer,2,4352,0.15,1232,0.2831,Credit Card
+AM-11125,2026-06-26,Central,Nagpur,Electronics,Tablet,Consumer,3,17085,0.15,866,0.0507,Net Banking
+AM-11126,2026-06-26,North,Delhi,Electronics,Bluetooth Speaker,Home Office,1,6069,0.3,-348,-0.0573,UPI
+AM-11127,2026-06-26,West,Ahmedabad,Office Supplies,Organizer Set,Consumer,5,29350,0.0,14769,0.5032,UPI
+AM-11128,2026-06-26,South,Bengaluru,Fashion,Handbag,Consumer,2,5724,0.1,1602,0.2799,Credit Card
+AM-11129,2026-06-26,East,Kolkata,Electronics,Smartwatch,Corporate,1,10032,0.2,126,0.0126,Net Banking
+AM-11130,2026-06-26,South,Bengaluru,Electronics,Headphones,Consumer,2,14416,0.15,342,0.0237,UPI
+AM-11131,2026-06-26,Central,Bhopal,Electronics,Power Bank,Consumer,4,13696,0.2,742,0.0542,UPI
+AM-11132,2026-06-26,Central,Indore,Electronics,Headphones,Consumer,1,4029,0.15,352,0.0874,Net Banking
+AM-11133,2026-06-26,East,Kolkata,Home & Kitchen,Vacuum Cleaner,Consumer,1,1634,0.05,484,0.2962,Debit Card
+AM-11134,2026-06-26,South,Bengaluru,Fashion,Kurta Set,Consumer,1,2814,0.15,747,0.2655,Net Banking
+AM-11135,2026-06-26,East,Patna,Fashion,Kurta Set,Consumer,1,4491,0.1,1536,0.342,Wallet
+AM-11136,2026-06-26,West,Pune,Electronics,Smartwatch,Corporate,7,38864,0.2,2180,0.0561,UPI
+AM-11137,2026-06-26,East,Bhubaneswar,Fashion,Handbag,Corporate,4,7648,0.2,1991,0.2603,Wallet
+AM-11138,2026-06-26,North,Lucknow,Electronics,Bluetooth Speaker,Corporate,3,8589,0.3,-476,-0.0554,UPI
+AM-11139,2026-06-27,West,Pune,Fashion,Kurta Set,Consumer,1,1377,0.1,398,0.289,UPI
+AM-11140,2026-06-27,East,Guwahati,Home & Kitchen,Vacuum Cleaner,Home Office,1,2772,0.1,624,0.2251,UPI
+AM-11141,2026-06-27,South,Bengaluru,Fashion,Jacket,Consumer,1,4570,0.05,1808,0.3956,Wallet
+AM-11142,2026-06-27,West,Ahmedabad,Fashion,Sneakers,Home Office,1,1926,0.1,636,0.3302,UPI
+AM-11143,2026-06-27,West,Surat,Home & Kitchen,Cookware Set,Consumer,2,14484,0.15,2997,0.2069,Debit Card
+AM-11144,2026-06-27,West,Pune,Beauty,Skincare Kit,Home Office,1,3332,0.15,1271,0.3815,Credit Card
+AM-11145,2026-06-27,West,Ahmedabad,Electronics,Tablet,Consumer,1,4936,0.2,-296,-0.06,Credit Card
+AM-11146,2026-06-27,West,Ahmedabad,Fashion,Kurta Set,Consumer,5,22095,0.1,6590,0.2983,UPI
+AM-11147,2026-06-27,North,Delhi,Electronics,Power Bank,Home Office,1,5168,0.25,-646,-0.125,UPI
+AM-11148,2026-06-27,East,Kolkata,Beauty,Trimmer,Corporate,5,7695,0.1,3192,0.4148,Credit Card
+AM-11149,2026-06-27,South,Chennai,Beauty,Hair Dryer,Consumer,1,855,0.05,399,0.4667,Debit Card
+AM-11150,2026-06-27,South,Kochi,Home & Kitchen,Bedsheet Set,Corporate,3,23247,0.1,5967,0.2567,UPI
+AM-11151,2026-06-27,North,Chandigarh,Beauty,Perfume,Corporate,5,16575,0.15,6423,0.3875,Wallet
+AM-11152,2026-06-27,Central,Nagpur,Electronics,Bluetooth Speaker,Corporate,3,38565,0.25,-1500,-0.0389,UPI
+AM-11153,2026-06-27,Central,Bhopal,Office Supplies,Printer Ink,Corporate,8,5520,0.0,2882,0.5221,COD
+AM-11154,2026-06-27,South,Kochi,Beauty,Perfume,Home Office,4,12528,0.1,4727,0.3773,Credit Card
+AM-11155,2026-06-28,North,Jaipur,Fashion,Jeans,Home Office,4,14348,0.15,4585,0.3196,UPI
+AM-11156,2026-06-28,South,Chennai,Office Supplies,Printer Ink,Consumer,1,760,0.0,410,0.5395,UPI
+AM-11157,2026-06-28,North,Lucknow,Electronics,Bluetooth Speaker,Consumer,1,9810,0.25,-1212,-0.1235,COD
+AM-11158,2026-06-28,North,Chandigarh,Electronics,Headphones,Corporate,4,21812,0.3,-1871,-0.0858,Debit Card
+AM-11159,2026-06-28,North,Jaipur,Beauty,Skincare Kit,Consumer,1,2792,0.2,835,0.2991,Credit Card
+AM-11160,2026-06-28,North,Delhi,Electronics,Headphones,Consumer,1,12160,0.2,436,0.0359,Net Banking
+AM-11161,2026-06-28,West,Mumbai,Fashion,Sneakers,Corporate,2,5968,0.2,1099,0.1841,UPI
+AM-11162,2026-06-28,West,Surat,Electronics,Headphones,Consumer,1,9225,0.25,-835,-0.0905,Credit Card
+AM-11163,2026-06-28,South,Hyderabad,Beauty,Perfume,Consumer,1,963,0.1,416,0.432,Wallet
+AM-11164,2026-06-28,South,Kochi,Home & Kitchen,Mixer Grinder,Consumer,2,13243,0.05,4455,0.3364,UPI
+AM-11165,2026-06-28,North,Delhi,Electronics,Smartwatch,Corporate,4,38016,0.2,-161,-0.0042,Credit Card
+AM-11166,2026-06-28,North,Jaipur,Office Supplies,Desk Lamp,Corporate,5,8312,0.05,3834,0.4613,UPI
+AM-11167,2026-06-28,East,Guwahati,Fashion,Kurta Set,Consumer,2,5576,0.15,1596,0.2862,UPI
+AM-11168,2026-06-28,North,Delhi,Home & Kitchen,Bedsheet Set,Consumer,2,11826,0.1,2890,0.2444,UPI
+AM-11169,2026-06-28,West,Mumbai,Fashion,Kurta Set,Consumer,2,4161,0.05,1570,0.3773,UPI
+AM-11170,2026-06-28,North,Jaipur,Office Supplies,Desk Lamp,Corporate,4,4384,0.2,1918,0.4375,Debit Card
+AM-11171,2026-06-28,Central,Nagpur,Home & Kitchen,Vacuum Cleaner,Corporate,4,24408,0.1,7854,0.3218,Credit Card
+AM-11172,2026-06-28,East,Patna,Electronics,Power Bank,Corporate,1,2568,0.2,151,0.0588,Debit Card
+AM-11173,2026-06-28,Central,Indore,Electronics,Power Bank,Consumer,1,4378,0.15,38,0.0087,Credit Card
+AM-11174,2026-06-29,East,Patna,Beauty,Makeup Palette,Home Office,1,3135,0.05,1405,0.4482,UPI
+AM-11175,2026-06-29,South,Hyderabad,Fashion,Jacket,Consumer,3,2295,0.15,678,0.2954,Credit Card
+AM-11176,2026-06-29,North,Lucknow,Home & Kitchen,Bedsheet Set,Consumer,2,11232,0.2,1385,0.1233,Credit Card
+AM-11177,2026-06-29,South,Kochi,Electronics,Power Bank,Corporate,6,47205,0.25,-5621,-0.1191,COD
+AM-11178,2026-06-29,West,Pune,Electronics,Power Bank,Consumer,1,14288,0.2,-316,-0.0221,Credit Card
+AM-11179,2026-06-29,West,Surat,Electronics,Headphones,Corporate,4,57088,0.2,-476,-0.0083,UPI
+AM-11180,2026-06-29,South,Hyderabad,Electronics,Smartwatch,Consumer,1,15028,0.15,379,0.0252,UPI
+AM-11181,2026-06-29,West,Pune,Fashion,Sneakers,Consumer,5,13920,0.2,3597,0.2584,Credit Card
+AM-11182,2026-06-29,North,Jaipur,Electronics,Smartwatch,Home Office,2,5880,0.25,-379,-0.0645,Debit Card
+AM-11183,2026-06-29,East,Patna,Electronics,Power Bank,Corporate,2,21008,0.2,-1641,-0.0781,UPI
+AM-11184,2026-06-29,North,Jaipur,Beauty,Hair Dryer,Corporate,2,1156,0.15,447,0.3867,Debit Card
+AM-11185,2026-06-30,South,Bengaluru,Beauty,Makeup Palette,Consumer,1,3006,0.1,1132,0.3766,COD
+AM-11186,2026-06-30,North,Jaipur,Electronics,Power Bank,Corporate,2,4935,0.25,-299,-0.0606,Debit Card
+AM-11187,2026-06-30,North,Jaipur,Electronics,Bluetooth Speaker,Home Office,1,11179,0.3,-1631,-0.1459,UPI
+AM-11188,2026-06-30,East,Kolkata,Home & Kitchen,Air Fryer,Consumer,1,3834,0.1,1089,0.284,Credit Card
+AM-11189,2026-06-30,West,Mumbai,Fashion,Jacket,Consumer,4,8640,0.2,2248,0.2602,UPI
+AM-11190,2026-06-30,North,Chandigarh,Electronics,Power Bank,Corporate,1,1960,0.3,-261,-0.1332,Credit Card
+AM-11191,2026-06-30,West,Pune,Electronics,Headphones,Home Office,2,29359,0.15,3618,0.1232,Credit Card
+AM-11192,2026-06-30,North,Delhi,Electronics,Power Bank,Consumer,2,10260,0.25,-1067,-0.104,UPI
+AM-11193,2026-06-30,West,Mumbai,Fashion,Jacket,Home Office,2,8381,0.15,1842,0.2198,Credit Card
+AM-11194,2026-06-30,East,Bhubaneswar,Fashion,Jeans,Consumer,1,1552,0.2,341,0.2197,Net Banking
+AM-11195,2026-06-30,West,Mumbai,Home & Kitchen,Mixer Grinder,Home Office,1,2576,0.15,514,0.1995,Debit Card
+AM-11196,2026-06-30,East,Guwahati,Office Supplies,Desk Lamp,Corporate,7,20090,0.0,10050,0.5002,Credit Card
+AM-11197,2026-06-30,North,Chandigarh,Electronics,Smartwatch,Consumer,1,3773,0.3,-675,-0.1789,Net Banking
+AM-11198,2026-06-30,North,Lucknow,Office Supplies,Ergonomic Chair,Corporate,1,1674,0.15,738,0.4409,UPI
+AM-11199,2026-06-30,East,Patna,Electronics,Smartwatch,Corporate,3,31950,0.25,-2156,-0.0675,Debit Card
+AM-11200,2026-06-30,West,Ahmedabad,Home & Kitchen,Cookware Set,Consumer,2,7429,0.15,1539,0.2072,Debit Card
